@@ -2108,6 +2108,57 @@ ELEVEN2,rtmp://59.124.75.153:1935/sat/md031
 ELEVEN+,rtmp://59.124.75.153:1935/sat/md041 
 愛爾達體育3台,rtmp://59.124.75.153/sat/md051 
 
+ESPN-p5p,p5p://0198.02686.cc:16871/5f37ecd5000cc93142ee509a1520c75e.ts
+NBCSportsHD-p5p,p5p://0198.02686.cc:16871/5d1a69e4000e44c011be9b68f012ff10.ts
+ELEVEN1(soccer),http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+Eleven Sports 1,http://usa3.iptvteam.org:8000/paulo/2016/545
+Eleven Sports 2,http://usa3.iptvteam.org:8000/paulo/2016/89
+Eleven Sports 3,http://usa3.iptvteam.org:8000/paulo/2016/150
+Eleven Sports 4,http://usa3.iptvteam.org:8000/paulo/2016/66
+Eleven Sports 5,http://usa3.iptvteam.org:8000/paulo/2016/139
+Eleven Sports 6,http://usa3.iptvteam.org:8000/paulo/2016/96
+Sporting TV,http://usa3.iptvteam.org:8000/paulo/2016/526
+Sporting TV HD,http://usa3.iptvteam.org:8000/paulo/2016/645
+Sport TV + HD,http://usa3.iptvteam.org:8000/paulo/2016/531
+Sport TV+,http://usa3.iptvteam.org:8000/paulo/2016/234
+Sport TV NBA,http://usa3.iptvteam.org:8000/paulo/2016/77
+Sport TV 1 HD,http://usa3.iptvteam.org:8000/paulo/2016/108
+Sport TV 2 HD,http://usa3.iptvteam.org:8000/paulo/2016/102
+Sport TV 3 HD,http://usa3.iptvteam.org:8000/paulo/2016/132
+Sport TV 4,http://usa3.iptvteam.org:8000/paulo/2016/86
+Sport TV 5,http://usa3.iptvteam.org:8000/paulo/2016/78
+NBA HD,https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+FS3LIVE,https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+ViuTVsix,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+广东体育,http://93.190.139.36:8278/streams/d/gdsports/playlist.m3u8
+FOX Sport HD 1,https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+Fox Sport1,https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+Fox Sport2,https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+CCTV5-39,http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+CCTV5+39,http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+CCTV5-39-1,http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+CCTV5+117,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
+FoxSports2 77,http://77.83.117.60:8888/02_FoxSport2_TH_720p/chunklist.m3u8
+FoxSports3 77,http://77.83.117.60:8888/02_FoxSport3_TH_720p/chunklist.m3u8
+FoxSports1 77,http://77.83.117.60:8888/02_foxsport_720p/chunklist.m3u8
+BT Sports 1,http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+超级体育ᴴᴰ,http://39.134.155.137/PLTV/88888888/224/3221225653/index.m3u8
+超级体育,http://39.134.155.153/PLTV/88888888/224/3221225576/index.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+咪咕·PP体育1,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+Bein1 Sports,http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
+Bein2 Sports,http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
+Bein3 Sports,http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
+Bein4 Sports,http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
+Bein5 Sports,http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
+Bein6 Sports,http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
+Bein7 Sports,http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
+Bein8 Sports,http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
+Bein9 Sports,http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
 广东体育频道,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 冬奥纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225676/index.m3u8
 新视觉台 HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
