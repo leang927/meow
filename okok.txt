@@ -11,41 +11,21 @@ TV IKIM,http://iptv.tvmalaysia.cc:80/989898/989898/7192
 Berita RTM,http://iptv.tvmalaysia.cc:80/989898/989898/7191
 BERNAMA,http://iptv.tvmalaysia.cc:80/989898/989898/7190
 RTB MALAYSIA,http://iptv.tvmalaysia.cc:80/989898/989898/7188
-ASTRO Ria HD,http://iptv.tvmalaysia.cc:80/989898/989898/6730
-ASTRO Prima HD,http://iptv.tvmalaysia.cc:80/989898/989898/6727
-ASTRO Warna HD,http://iptv.tvmalaysia.cc:80/989898/989898/6740
-Astro Citra HD (subtitle),http://iptv.tvmalaysia.cc:80/989898/989898/7267
 Astro Boo,http://iptv.tvmalaysia.cc:80/989898/989898/8872
-ASTRO Naura HD,http://iptv.tvmalaysia.cc:80/989898/989898/6724
 Awesome TV,http://iptv.tvmalaysia.cc:80/989898/989898/9016
-ASTRO Oasis HD,http://iptv.tvmalaysia.cc:80/989898/989898/6725
-ASTRO Aura HD,http://iptv.tvmalaysia.cc:80/989898/989898/6713
-ASTRO Rania HD,http://iptv.tvmalaysia.cc:80/989898/989898/6729
-ASTRO Awani HD,http://iptv.tvmalaysia.cc:80/989898/989898/6714
-ASTRO Ceria HD,http://iptv.tvmalaysia.cc:80/989898/989898/6715
 ABC Australia,http://iptv.tvmalaysia.cc:80/989898/989898/6692
 Asian Food Network HD,http://iptv.tvmalaysia.cc:80/989898/989898/6693
-Al-Jazzera HD,http://iptv.tvmalaysia.cc:80/989898/989898/6694
 Animal Planet HD,http://iptv.tvmalaysia.cc:80/989898/989898/6695
 Animax,http://iptv.tvmalaysia.cc:80/989898/989898/6696
 Aniplus HD,http://iptv.tvmalaysia.cc:80/989898/989898/6697
-ASTRO Adithya,http://iptv.tvmalaysia.cc:80/989898/989898/6700
 ASTRO AEC HD,http://iptv.tvmalaysia.cc:80/989898/989898/6701
 ASTRO AOD 351 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6702
 ASTRO AOD 352 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6703
 ASTRO AOD 353 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6704
 ASTRO AOD 354 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6705
 ASTRO AOD 355 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6706
-ASTRO Colors Tamil,http://iptv.tvmalaysia.cc:80/989898/989898/6716
-ASTRO Zee Tamil HD,http://iptv.tvmalaysia.cc:80/989898/989898/6742
 ASTRO GO Shop 2,http://iptv.tvmalaysia.cc:80/989898/989898/6718
-ASTRO Vinmeen HD,http://iptv.tvmalaysia.cc:80/989898/989898/6739
-ASTRO Vaanavil HD,http://iptv.tvmalaysia.cc:80/989898/989898/6738
-Makkal TV,http://iptv.tvmalaysia.cc:80/989898/989898/6806
-ASTRO Sun TV HD,http://iptv.tvmalaysia.cc:80/989898/989898/6733
-ASTRO Star Vijay HD,http://iptv.tvmalaysia.cc:80/989898/989898/6732
-Jaya Max,http://iptv.tvmalaysia.cc:80/989898/989898/6802
-Chutti TV,http://iptv.tvmalaysia.cc:80/989898/989898/6762
+
 ASTRO iQIYI HD,http://iptv.tvmalaysia.cc:80/989898/989898/6723
 ASTRO Hua Hee Dai HD,http://iptv.tvmalaysia.cc:80/989898/989898/6722
 ASTRO Hello,http://iptv.tvmalaysia.cc:80/989898/989898/6721
@@ -53,10 +33,6 @@ ASTRO Oh!K HD,http://iptv.tvmalaysia.cc:80/989898/989898/6726
 ASTRO Quan Jia HD,http://iptv.tvmalaysia.cc:80/989898/989898/6728
 ASTRO Shuang Xing HD,http://iptv.tvmalaysia.cc:80/989898/989898/6731
 Astro Wah Lai Toi,http://iptv.tvmalaysia.cc:80/989898/989898/8970
-ASTRO Tutor TV PT3,http://iptv.tvmalaysia.cc:80/989898/989898/6734
-ASTRO Tutor TV SPM,http://iptv.tvmalaysia.cc:80/989898/989898/6735
-ASTRO Tutor TV UPSR,http://iptv.tvmalaysia.cc:80/989898/989898/6736
-ASTRO TVIQ,http://iptv.tvmalaysia.cc:80/989898/989898/6737
 ASTRO Xiao Tai Yang HD,http://iptv.tvmalaysia.cc:80/989898/989898/6741
 AXN HD,http://iptv.tvmalaysia.cc:80/989898/989898/6743
 BBC Lifestyle,http://iptv.tvmalaysia.cc:80/989898/989898/6746
@@ -97,7 +73,6 @@ TVB Xing He HD,http://iptv.tvmalaysia.cc:80/989898/989898/6842
 TVB Jade HD,http://iptv.tvmalaysia.cc:80/989898/989898/6841
 TVB E-News,http://iptv.tvmalaysia.cc:80/989898/989898/6840
 TVB Classic,http://iptv.tvmalaysia.cc:80/989898/989898/6839
-TV-AlHijrah,http://iptv.tvmalaysia.cc:80/989898/989898/6834
 Travel Channel HD,http://iptv.tvmalaysia.cc:80/989898/989898/6833
 TLC HD,http://iptv.tvmalaysia.cc:80/989898/989898/6832
 Sun Music,http://iptv.tvmalaysia.cc:80/989898/989898/6831
@@ -135,10 +110,6 @@ History FHD,http://iptv.tvmalaysia.cc:80/989898/989898/7079
 Discovery Channel HD,http://iptv.tvmalaysia.cc:80/989898/989898/7078
 Animal Planet,http://iptv.tvmalaysia.cc:80/989898/989898/7077
 HGTV,http://iptv.tvmalaysia.cc:80/989898/989898/7076
-Era FM,http://iptv.tvmalaysia.cc:80/989898/989898/7169
-Hot FM,http://iptv.tvmalaysia.cc:80/989898/989898/7170
-Hitz FM,http://iptv.tvmalaysia.cc:80/989898/989898/7171
-Sinar FM,http://iptv.tvmalaysia.cc:80/989898/989898/7172
 THR GEGAR,http://iptv.tvmalaysia.cc:80/989898/989898/7174
 Cinema World,http://iptv.tvmalaysia.cc:80/989898/989898/7219
 Thrill,http://iptv.tvmalaysia.cc:80/989898/989898/7220
@@ -160,16 +131,78 @@ Sony One,http://iptv.tvmalaysia.cc:80/989898/989898/8863
 Sony Gem,http://iptv.tvmalaysia.cc:80/989898/989898/8864
 TvN,http://iptv.tvmalaysia.cc:80/989898/989898/8865
 Disney Channel HD,http://iptv.tvmalaysia.cc:80/989898/989898/7196
+
+=== ASTRO SPORTS ===,http://iptv.tvmalaysia.cc:80/989898/989898/7214
+ASTRO Arena HD,http://iptv.tvmalaysia.cc:80/989898/989898/6707
+Arena ( B ),http://iptv.tvmalaysia.cc:80/989898/989898/9010
+ASTRO SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/989898/989898/6708
+ASTRO SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6710
+ASTRO SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6711
+ASTRO SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6712
+FOX Sports HD,http://iptv.tvmalaysia.cc:80/989898/989898/6793
+FOX Sports 2 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6791
+FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6792
+ASTRO Cricket,http://iptv.tvmalaysia.cc:80/989898/989898/6717
+beIN Sports,http://iptv.tvmalaysia.cc:80/989898/989898/6749
+beIN MAX,http://iptv.tvmalaysia.cc:80/989898/989898/6748
+beIN MAX 2,http://iptv.tvmalaysia.cc:80/989898/989898/7195
+WWE Network,http://iptv.tvmalaysia.cc:80/989898/989898/6849
+Rugby Pass TV,http://iptv.tvmalaysia.cc:80/989898/989898/6821
+Golf Channel HD,http://iptv.tvmalaysia.cc:80/989898/989898/6796
+====== TSN ======,http://iptv.tvmalaysia.cc:80/989898/989898/8969
+TSN 1,http://iptv.tvmalaysia.cc:80/989898/989898/8923
+TSN 2,http://iptv.tvmalaysia.cc:80/989898/989898/8924
+TSN 4,http://iptv.tvmalaysia.cc:80/989898/989898/8926
+TSN 3,http://iptv.tvmalaysia.cc:80/989898/989898/8925
+=== DSTV Supersport ===,http://iptv.tvmalaysia.cc:80/989898/989898/7215
+DSTV: SuperSport Grandstand,http://iptv.tvmalaysia.cc:80/989898/989898/6572
+DSTV: SuperSport PSL,http://iptv.tvmalaysia.cc:80/989898/989898/6573
+DSTV: SuperSport Premier League,http://iptv.tvmalaysia.cc:80/989898/989898/6574
+DSTV: SuperSport La Liga,http://iptv.tvmalaysia.cc:80/989898/989898/6575
+DSTV: SuperSport Football,http://iptv.tvmalaysia.cc:80/989898/989898/6576
+DSTV: SuperSport Variety 1,http://iptv.tvmalaysia.cc:80/989898/989898/6577
+DSTV: SuperSport Variety 2,http://iptv.tvmalaysia.cc:80/989898/989898/6578
+DSTV: SuperSport Variety 3,http://iptv.tvmalaysia.cc:80/989898/989898/6579
+DSTV: SuperSport Variety 4,http://iptv.tvmalaysia.cc:80/989898/989898/6580
+DSTV: SuperSport Cricket,http://iptv.tvmalaysia.cc:80/989898/989898/6583
+DSTV: Supersport Blitz,http://iptv.tvmalaysia.cc:80/989898/989898/6584
+DSTV: SuperSport MáXimo,http://iptv.tvmalaysia.cc:80/989898/989898/6585
+DSTV: SuperSport Rugby,http://iptv.tvmalaysia.cc:80/989898/989898/6582
+DSTV: SuperSport Action,http://iptv.tvmalaysia.cc:80/989898/989898/6581
+DSTV: SuperSport Motorsport,http://iptv.tvmalaysia.cc:80/989898/989898/7142
+DSTV: SuperSport Tennis,http://iptv.tvmalaysia.cc:80/989898/989898/7143
+DSTV: SuperSport WWE,http://iptv.tvmalaysia.cc:80/989898/989898/7144
+DSTV: SuperSport Golf,http://iptv.tvmalaysia.cc:80/989898/989898/7145
+BeIN Sport 1,http://iptv.tvmalaysia.cc:80/989898/989898/6597
+BeIN Sport 2,http://iptv.tvmalaysia.cc:80/989898/989898/6598
+BeIN Sport 13,http://iptv.tvmalaysia.cc:80/989898/989898/6609
+=== BT SPORT ===,http://iptv.tvmalaysia.cc:80/989898/989898/7218
+BT Sport 1,http://iptv.tvmalaysia.cc:80/989898/989898/6610
+BT Sport 2,http://iptv.tvmalaysia.cc:80/989898/989898/6611
+BT Sport 3,http://iptv.tvmalaysia.cc:80/989898/989898/6612
+BT Sport ESPN,http://iptv.tvmalaysia.cc:80/989898/989898/6613
+UK: Premier Sports 1,http://iptv.tvmalaysia.cc:80/989898/989898/7112
+UK: Premier Sports 2,http://iptv.tvmalaysia.cc:80/989898/989898/7113
+=== SKY SPORTS ===,http://iptv.tvmalaysia.cc:80/989898/989898/7217
+UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/989898/989898/6614
+UK: Sky Sports Arena,http://iptv.tvmalaysia.cc:80/989898/989898/6615
+UK: Sky Sports F1,http://iptv.tvmalaysia.cc:80/989898/989898/6617
+UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/989898/989898/6618
+UK: Sky Sports Football,http://iptv.tvmalaysia.cc:80/989898/989898/6620
+UK: Sky Sports Premier League,http://iptv.tvmalaysia.cc:80/989898/989898/6621
+UK: Sky Sports Cricket,http://iptv.tvmalaysia.cc:80/989898/989898/6619
+UK: Sky Sports Racing,http://iptv.tvmalaysia.cc:80/989898/989898/7114
+UK: Sky Sports Main Event,http://iptv.tvmalaysia.cc:80/989898/989898/7115
+UK: Sky Sports Mix,http://iptv.tvmalaysia.cc:80/989898/989898/7116
+MUTV,http://iptv.tvmalaysia.cc:80/989898/989898/7236
+LFC TV,http://iptv.tvmalaysia.cc:80/989898/989898/7237
+UFC,http://iptv.tvmalaysia.cc:80/989898/989898/7259
+UFC PPV Early Prelims,http://iptv.tvmalaysia.cc:80/989898/989898/7260
+UFC PPV Prelims,http://iptv.tvmalaysia.cc:80/989898/989898/7261
+UFC PPV Main Card,http://iptv.tvmalaysia.cc:80/989898/989898/7262
+PPV Boxing,http://iptv.tvmalaysia.cc:80/989898/989898/7263
+
 TH:CTB,http://iptv.tvmalaysia.cc:80/989898/989898/8752
-TH:News 1,http://iptv.tvmalaysia.cc:80/989898/989898/8754
-TH:Thai PBS 3,http://iptv.tvmalaysia.cc:80/989898/989898/8755
-TH:TPTV,http://iptv.tvmalaysia.cc:80/989898/989898/8756
-TH:White Channel,http://iptv.tvmalaysia.cc:80/989898/989898/8757
-TH | ALTV HD,http://iptv.tvmalaysia.cc:80/989898/989898/8759
-TH | MONO29 HD,http://iptv.tvmalaysia.cc:80/989898/989898/8760
-TH | CH3 HD,http://iptv.tvmalaysia.cc:80/989898/989898/8761
-TH | CH7 HD,http://iptv.tvmalaysia.cc:80/989898/989898/8762
-TH | Lakorn Thai,http://iptv.tvmalaysia.cc:80/989898/989898/8763
 TH | Celestial Movies HD,http://iptv.tvmalaysia.cc:80/989898/989898/8765
 TH | CTB,http://iptv.tvmalaysia.cc:80/989898/989898/8766
 TH | Channel 8,http://iptv.tvmalaysia.cc:80/989898/989898/8767
@@ -178,9 +211,6 @@ TH | Cinema World,http://iptv.tvmalaysia.cc:80/989898/989898/8769
 TH | Hunan TV HD,http://iptv.tvmalaysia.cc:80/989898/989898/8770
 TH | Blue Ant Extreme HD,http://iptv.tvmalaysia.cc:80/989898/989898/8771
 TH | HGTV,http://iptv.tvmalaysia.cc:80/989898/989898/8772
-TH | MV Laos,http://iptv.tvmalaysia.cc:80/989898/989898/8773
-TH | Jasmin TV,http://iptv.tvmalaysia.cc:80/989898/989898/8774
-TH | PSI Saradee HD,http://iptv.tvmalaysia.cc:80/989898/989898/8776
 TH | Animal Planet HD,http://iptv.tvmalaysia.cc:80/989898/989898/8777
 TH | TLC,http://iptv.tvmalaysia.cc:80/989898/989898/8778
 TH | Outdoor Channel,http://iptv.tvmalaysia.cc:80/989898/989898/8779
@@ -252,75 +282,7 @@ sig,http://iptv.tvmalaysia.cc:80/989898/989898/9005
 FOX ACTION (P),http://iptv.tvmalaysia.cc:80/989898/989898/9006
 foxmoviebeta,http://iptv.tvmalaysia.cc:80/989898/989898/9007
 cinemax..,http://iptv.tvmalaysia.cc:80/989898/989898/9008
-=== ASTRO SPORTS ===,http://iptv.tvmalaysia.cc:80/989898/989898/7214
-ASTRO Arena HD,http://iptv.tvmalaysia.cc:80/989898/989898/6707
-Arena ( B ),http://iptv.tvmalaysia.cc:80/989898/989898/9010
-ASTRO SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/989898/989898/6708
-ASTRO SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6710
-ASTRO SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6711
-ASTRO SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6712
-FOX Sports HD,http://iptv.tvmalaysia.cc:80/989898/989898/6793
-FOX Sports 2 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6791
-FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6792
-ASTRO Cricket,http://iptv.tvmalaysia.cc:80/989898/989898/6717
-beIN Sports,http://iptv.tvmalaysia.cc:80/989898/989898/6749
-beIN MAX,http://iptv.tvmalaysia.cc:80/989898/989898/6748
-beIN MAX 2,http://iptv.tvmalaysia.cc:80/989898/989898/7195
-WWE Network,http://iptv.tvmalaysia.cc:80/989898/989898/6849
-Rugby Pass TV,http://iptv.tvmalaysia.cc:80/989898/989898/6821
-Golf Channel HD,http://iptv.tvmalaysia.cc:80/989898/989898/6796
-====== TSN ======,http://iptv.tvmalaysia.cc:80/989898/989898/8969
-TSN 1,http://iptv.tvmalaysia.cc:80/989898/989898/8923
-TSN 2,http://iptv.tvmalaysia.cc:80/989898/989898/8924
-TSN 4,http://iptv.tvmalaysia.cc:80/989898/989898/8926
-TSN 3,http://iptv.tvmalaysia.cc:80/989898/989898/8925
-=== DSTV Supersport ===,http://iptv.tvmalaysia.cc:80/989898/989898/7215
-DSTV: SuperSport Grandstand,http://iptv.tvmalaysia.cc:80/989898/989898/6572
-DSTV: SuperSport PSL,http://iptv.tvmalaysia.cc:80/989898/989898/6573
-DSTV: SuperSport Premier League,http://iptv.tvmalaysia.cc:80/989898/989898/6574
-DSTV: SuperSport La Liga,http://iptv.tvmalaysia.cc:80/989898/989898/6575
-DSTV: SuperSport Football,http://iptv.tvmalaysia.cc:80/989898/989898/6576
-DSTV: SuperSport Variety 1,http://iptv.tvmalaysia.cc:80/989898/989898/6577
-DSTV: SuperSport Variety 2,http://iptv.tvmalaysia.cc:80/989898/989898/6578
-DSTV: SuperSport Variety 3,http://iptv.tvmalaysia.cc:80/989898/989898/6579
-DSTV: SuperSport Variety 4,http://iptv.tvmalaysia.cc:80/989898/989898/6580
-DSTV: SuperSport Cricket,http://iptv.tvmalaysia.cc:80/989898/989898/6583
-DSTV: Supersport Blitz,http://iptv.tvmalaysia.cc:80/989898/989898/6584
-DSTV: SuperSport MáXimo,http://iptv.tvmalaysia.cc:80/989898/989898/6585
-DSTV: SuperSport Rugby,http://iptv.tvmalaysia.cc:80/989898/989898/6582
-DSTV: SuperSport Action,http://iptv.tvmalaysia.cc:80/989898/989898/6581
-DSTV: SuperSport Motorsport,http://iptv.tvmalaysia.cc:80/989898/989898/7142
-DSTV: SuperSport Tennis,http://iptv.tvmalaysia.cc:80/989898/989898/7143
-DSTV: SuperSport WWE,http://iptv.tvmalaysia.cc:80/989898/989898/7144
-DSTV: SuperSport Golf,http://iptv.tvmalaysia.cc:80/989898/989898/7145
-BeIN Sport 1,http://iptv.tvmalaysia.cc:80/989898/989898/6597
-BeIN Sport 2,http://iptv.tvmalaysia.cc:80/989898/989898/6598
-BeIN Sport 13,http://iptv.tvmalaysia.cc:80/989898/989898/6609
-=== BT SPORT ===,http://iptv.tvmalaysia.cc:80/989898/989898/7218
-BT Sport 1,http://iptv.tvmalaysia.cc:80/989898/989898/6610
-BT Sport 2,http://iptv.tvmalaysia.cc:80/989898/989898/6611
-BT Sport 3,http://iptv.tvmalaysia.cc:80/989898/989898/6612
-BT Sport ESPN,http://iptv.tvmalaysia.cc:80/989898/989898/6613
-UK: Premier Sports 1,http://iptv.tvmalaysia.cc:80/989898/989898/7112
-UK: Premier Sports 2,http://iptv.tvmalaysia.cc:80/989898/989898/7113
-=== SKY SPORTS ===,http://iptv.tvmalaysia.cc:80/989898/989898/7217
-UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/989898/989898/6614
-UK: Sky Sports Arena,http://iptv.tvmalaysia.cc:80/989898/989898/6615
-UK: Sky Sports F1,http://iptv.tvmalaysia.cc:80/989898/989898/6617
-UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/989898/989898/6618
-UK: Sky Sports Football,http://iptv.tvmalaysia.cc:80/989898/989898/6620
-UK: Sky Sports Premier League,http://iptv.tvmalaysia.cc:80/989898/989898/6621
-UK: Sky Sports Cricket,http://iptv.tvmalaysia.cc:80/989898/989898/6619
-UK: Sky Sports Racing,http://iptv.tvmalaysia.cc:80/989898/989898/7114
-UK: Sky Sports Main Event,http://iptv.tvmalaysia.cc:80/989898/989898/7115
-UK: Sky Sports Mix,http://iptv.tvmalaysia.cc:80/989898/989898/7116
-MUTV,http://iptv.tvmalaysia.cc:80/989898/989898/7236
-LFC TV,http://iptv.tvmalaysia.cc:80/989898/989898/7237
-UFC,http://iptv.tvmalaysia.cc:80/989898/989898/7259
-UFC PPV Early Prelims,http://iptv.tvmalaysia.cc:80/989898/989898/7260
-UFC PPV Prelims,http://iptv.tvmalaysia.cc:80/989898/989898/7261
-UFC PPV Main Card,http://iptv.tvmalaysia.cc:80/989898/989898/7262
-PPV Boxing,http://iptv.tvmalaysia.cc:80/989898/989898/7263
+
 
 
 Msia,#genre#
@@ -366,15 +328,6 @@ Astro SuperSport 2,http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
 Astro SuperSport 3,http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
 Astro SuperSport 4,http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
 
-
-Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-Drama Sangat,http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
-Astro Ria,http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8
-Astro Prima, http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-Astro Oasis,http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-Astro Awani,http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
-Naura HD,http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
 Bernama TV,http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 NTV 7,http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
@@ -383,6 +336,43 @@ TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
+
+
+Msia test,#genre#
+test,http://iptvstream.xyz:8080/Mcnsi/7210db0d/174701
+TV 1 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/158357
+TV 2 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/158355
+TV 3 HDhttp://iptvstream.xyz:8080/Mcnsi/7210db0d/158360
+TV 9 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/171953
+8TV HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/171968
+Astro AEC HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247409
+AEC,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247409
+Astro Hua Hee Dai HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247424
+Astro Shuang Xing HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247428
+Astro Xiao Tai Yang HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/201164
+TVB Entertainment News HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157472
+TVB Xing He HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157473
+TVN HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157476
+TVN Movies HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157520
+AXN HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157542
+Warner TV HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157550
+Sony Channel HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/171974
+TLC HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157483
+EUROSPORT 1 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/158353
+nickelodeon HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157541
+Astro SuperSport 1 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/146068
+Astro SuperSport 2 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157556
+Astro SuperSport 3 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157557
+Astro SuperSport 4 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157558
+Astro AOD 311 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/264512
+Astro AOD 352 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247411
+Astro AOD 353 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247412
+Astro AOD 354 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247413
+Astro AOD 355 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247414
+Astro Cricket HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157565
+
+
+
 
 
 
@@ -826,6 +816,7 @@ ELEVEN+,rtmp://59.124.75.153:1935/sat/md031
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 人间卫视,rtmp://161.202.204.248/sat/md041
 优视频道,http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+TVBS歡樂,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
 TVBS欢乐台,rtmp://161.202.204.248/sat/tv421
 TVBS欢乐台-1,rtmp://59.124.75.153/sat/tv421
 TVBS欢乐台-2,rtmp://59.124.75.153:1935/sat/tv421
@@ -1825,11 +1816,6 @@ RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8
 RTHK32,https://cdn.hkdtmb.com/hls/32/index.m3u8
 RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 
-
-
-
-
-
 港台测试,#genre#
 TVB翡翠台,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8
 TVB J2,http://185.207.176.189:8080/channels/tv-82/playlist.m3u8
@@ -1891,6 +1877,209 @@ LUXE TV,http://58.26.3.53/PLTV/88888888/224/3221226265/06.m3u8
 RTHK31 ★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK32 ★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 
+台湾1(YY),#genre#
+中视,rtmp://161.202.204.248/sat/tv091
+华视,rtmp://161.202.204.248/sat/tv112
+台视,rtmp://161.202.204.248/sat/tv071
+民视,rtmp://161.202.204.248/sat/tv052
+TVBS·欢乐台,rtmp://161.202.204.248/sat/tv422
+TVBS·新闻台,rtmp://161.202.204.248/sat/tv552
+三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+纬来体育,rtmp://161.202.204.248/sat/tv721
+纬来育乐,rtmp://161.202.204.248/sat/tv701
+纬来日本,rtmp://161.202.204.248:1935/sat/tv521
+爱尔达体育一,rtmp://161.202.204.248/sat/md011
+东森超视,rtmp://161.202.204.248/sat/tv772
+博斯魅力,rtmp://161.202.204.248/sat/md042
+东森财经新闻,rtmp://161.202.204.248:1935/sat/tv571
+MoMo综合台,rtmp://161.202.204.248/sat/tv761
+TVBS欢乐,rtmp://161.202.204.248:1935/sat/tv421
+TVBS新闻,rtmp://161.202.204.248:1935/sat/tv551
+Mono综合,rtmp://161.202.204.248:1935/sat/tv761
+FOX体育,rtmp://161.202.204.248:1935/sat/tv731
+FOX2体育,rtmp://161.202.204.248:1935/sat/tv741
+TVBS新聞,rtmp://161.202.204.248/sat/tv551
+FOX体育3,rtmp://161.202.204.248:1935/sat/md031
+fox3,rtmp://161.202.204.248:1935/sat/md021
+ELTA1台,rtmp://161.202.204.248:1935/sat/md041
+日本MLB,rtmp://161.202.204.248:1935/sat/jp071
+博斯運動 II,rtmp://161.202.204.248:1935/sat/md051
+beIN SPORTS 1,rtmp://161.202.204.248:1935/sat/hk011
+華视,rtmp://161.202.204.248:1935/sat/tv111
+CBS2 720,rtmp://161.202.204.248:1935/sat/us011
+CBS2 480,rtmp://161.202.204.248:1935/sat/us012
+FS1 480,rtmp://161.202.204.248:1935/sat/us031
+FS1 352,rtmp://161.202.204.248:1935/sat/us032
+
+亚洲美食,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=asiafood_zero
+美食星球,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=foodplanet_zero
+MTV Live,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=mtvlive_zero
+ELTA綜合台,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=eltazonghe_zero
+ELTA影劇台,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=eltadrama_zero
+NatGeo_People,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=natgeopeople_zero
+Discovery Eve,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=eve_zero
+BBC Earth Lifestyle,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=bbclifestyle_zero
+
+民视,http://41.216.189.186/daili/4g.php?id=FTV&git=1&token=7hfksss224a
+民视新闻,http://41.216.189.186/daili/4g.php?id=FTVNews&git=1&token=7hfksss224a
+民视第一台,http://41.216.189.186/daili/4g.php?id=FMTV&git=1&token=7hfksss224a
+民视台湾台,http://41.216.189.186/daili/4g.php?id=4gtv-4gtv001&git=2&token=7hfksss224a
+民视影剧台,http://41.216.189.186/daili/4g.php?id=FTVDrama&git=1&token=7hfksss224a
+民视综艺台,http://41.216.189.186/daili/4g.php?id=FTVVariety&git=1&token=7hfksss224a
+民视旅游台,http://41.216.189.186/daili/4g.php?id=FTVTravel&git=1&token=7hfksss224a
+HBO原創電影,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=hbosignature_zero
+Astro欢喜台,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=Huahee
+Nickelodeon,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=Nickelodeon
+Baby TV Eng,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=Babytv
+Kids TV,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=KidsTV
+CBeebies,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=Cbeebies
+Disney Channel,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=Disneyxd
+Disney Junior,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=Disneyjr
+
+广东体育,http://41.216.189.186/daili/ce50.php?gun=10&token=7hfksss224a&id=18
+广东经济,http://41.216.189.186/daili/ce50.php?gun=10&token=7hfksss224a&id=139
+东森电影,http://41.216.189.186/daili/ce50.php?gun=10&token=7hfksss224a&id=58
+东森洋片,http://41.216.189.186/daili/ce50.php?gun=10&token=7hfksss224a&id=59
+龙祥时代,http://41.216.189.186/daili/ce50.php?gun=10&token=7hfksss224a&id=38
+私人影院,http://41.216.189.186/daili/ce50.php?gun=10&token=7hfksss224a&id=57
+中国电影,http://41.216.189.186/daili/ce50.php?gun=10&token=7hfksss224a&id=61
+
+港澳(YY),#genre#
+翡翠台 1080P,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=81
+无线新闻 1080P,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=83
+明珠台,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=84
+明珠台(粵語聲道),http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=84b
+J2 1080P,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=82
+无线财经资讯台 1080P,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=85
+ViuTV 1080P,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=99
+ViuTV 6,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=96
+香港国际财经,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=76
+开电视,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=77
+RTHK31,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=31
+RTHK32,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=32
+RTHK33,http://41.216.189.186/daili/ce50.php?gun=5&token=7hfksss224a&id=33
+有线18台,rtmp://161.202.204.248/sat/hk042
+凤凰中文台,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯台,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+凤凰香港台,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+香港HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+翡翠台,http://tyzb2021.chxjon.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=xgfeicui_1500
+明珠台,http://tyzb2021.chxjon.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=xgmingzhu_1500
+星空卫视,http://tyzb2021.chxjon.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=xingkong_1500
+无线新闻,http://213.183.41.77:8541/streams/d/Inews/playlist.m3u8
+无线新闻台,http://41.216.189.186/daili/tvb22.php?id=1&token=7hfksss224a
+无线财经台,http://41.216.189.186/daili/tvb22.php?id=2&token=7hfksss224a
+凤凰卫视电影台,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/fhdy.m3u8
+[V],http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/channelv.m3u8
+星空卫视2,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/startv.m3u8
+国家地理,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/natlgeo.m3u8
+探索频道,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/discovery.m3u8
+Star Sports,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/starsports.m3u8
+中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
+亚美卫视,http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+耀才財經台1,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+澳门卫视,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳视资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+澳視澳門,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
+澳視卫星,http://61.244.22.5/ch3/ch3.live/chunklist_w30461384.m3u8
+澳門Macau,http://61.244.22.5/ch2/_definst_/ch2.live/playlist.m3u8
+澳视卫星,http://61.244.22.4/ch3/ch3.live/index.m3u8
+澳视综艺,http://61.244.22.5/ch6/_definst_/hd_ch6.live/playlist.m3u8
+澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
+澳門3台,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+澳門微电影,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+澳门葡萄牙,http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+TVB 翡翠台,http://41.216.189.186/daili/qita222.php?id=tv-81&token=7hfksss224a&gd=1
+TVB J2,http://41.216.189.186/daili/qita222.php?id=tv-82&token=7hfksss224a&gd=1
+TVB 新聞台,http://41.216.189.186/daili/qita222.php?id=tv-83&token=7hfksss224a&gd=1
+明珠台,http://41.216.189.186/daili/qita222.php?id=tv-84&token=7hfksss224a&gd=1
+財經資訊台,http://41.216.189.186/daili/qita222.php?id=tv-85&token=7hfksss224a&gd=1
+31港台,http://41.216.189.186/daili/qita222.php?id=tv-31&token=7hfksss224a&gd=1
+32港台,http://41.216.189.186/daili/qita222.php?id=tv-32&token=7hfksss224a&gd=1
+33港台,http://41.216.189.186/daili/qita222.php?id=tv-33&token=7hfksss224a&gd=1
+ViuTV six,http://41.216.189.186/daili/qita222.php?id=tv-96&token=7hfksss224a&gd=1
+ViuTV,http://41.216.189.186/daili/qita222.php?id=tv-99&token=7hfksss224a&gd=1
+龍翔電影台,http://107.167.5.66:80/mylive/102/2064/index.m3u8
+東森电影台,http://107.167.5.66:80/mylive/102/2062/index.m3u8
+緯來電影台,http://107.167.5.66:80/mylive/102/2063/index.m3u8
+卫视电影台,http://107.167.5.66:80/mylive/102/2061/index.m3u8
+年代新闻,http://107.167.5.66/mylive/102/2050/index.m3u8
+非凡新闻,http://107.167.5.66/mylive/102/2058/index.m3u8
+东森电影,http://107.167.5.66/mylive/102/2062/index.m3u8
+龍翔时代,http://107.167.5.66/mylive/102/2064/index.m3u8
+纬来电影,http://107.167.5.66/mylive/102/2063/index.m3u8
+HBO,http://107.167.5.66/mylive/102/2065/index.m3u8
+HBO GO,http://107.167.5.66/mylive/102/2070/index.m3u8
+
+马来+国际（YY),#genre#
+TV1,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=TV1
+TV2,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=TV2
+NTV7,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Rtmntv7
+TV9,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=TV9
+Bernama,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Bernama
+
+AOD,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=aod_pye
+AEC,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=aec_pye
+八度空间,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=TV8
+WWE,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=wwe_pye
+全佳,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Quanjia
+双星,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Shuangxing
+天映频道,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Celestial
+爱奇艺,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=iqiyi_pye
+小太阳,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Xiaotaiyang
+天映经典,http://41.216.189.186/daili/ce50.php?gun=10&token=7hfksss224a&id=62
+天映经典台,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Celestial2
+AFC-美食,https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+FOX-生活,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+索尼动画,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
+Hello,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Hello
+Sony,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=SetOne
+tvN,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=TVN
+TVN-亚洲,http://41.216.189.186/daili/ce50.php?gun=3&id=TVN&token=7hfksss224a
+boo恐怖片,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Boo
+国家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+法国24,https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+NHK世界,https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+KBS Wolrd,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=KBS
+Oh!k,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Ohk
+HBO,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Hbo
+HGTV,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=HGTV
+NatGeo Wild,http://41.216.189.186/daili/ce50.php?gun=3&token=7hfksss224a&id=Natgeowild
+Da Vinci,https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+Channel [V],https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+MTV Yo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+
+
+港澳电影(YY),#genre#
+翡翠台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=qojgxuet23496567/20
+NOW新闻,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=uadgdzil39460877/19
+有线603,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=jtyikjsb45804900/18
+无线新闻,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=hod00568
+有线新闻,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=uqbyolqs25249356/14
+有线J2,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=fuliyobf42922498/3
+开电视,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=ibugejgr56835280/13
+东森洋片台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=jgjtpdzc68498932/75
+卡式卫视台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=sfjkfhve04255284/23
+AXN电影台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=lgdhdhqt88784905/85
+HBO电影台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=rfqnjajk68272879/64
+美亚电影台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=timddnjt55854138/70
+星卫电影台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=oujtjnvy24494613/71
+东森电影台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=fczwczoe08763676/74
+壹电视新闻台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=xtxndaws57833801/50
+民视新闻,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=cmcfizof46736198/36
+有线电影台,http://41.216.189.186/daili/ce50.php?gun=7&token=7hfksss224a&id=yvlvlvso41628534/16
+TVB星河频道,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=3&id=319
+卫视卡式台,http://93.190.139.35:8278/streams/d/Weishilegend/playlist.m3u8
+TVB 星河台,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+广东体育,http://93.190.139.36:8278/streams/d/gdsports/playlist.m3u8
+翡翠华丽台,http://41.216.189.186/daili/qita222.php?token=7hfksss224a&gd=2&id=Wlt
 
 
 ⚽体育综合,#genre#
@@ -2174,6 +2363,8 @@ MTV WMA,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/mast
 MTV Spankin\\\' New,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 MTV Block Party,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 MTV Biggest Pop,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+韩国,#genre#
 EBS 1,http://132.145.83.248:9981/stream/channelid/751919519
 EBS 2,http://132.145.83.248:9981/stream/channelid/214863106
 KBS 1TV,http://132.145.83.248:9981/stream/channelid/1394676468
