@@ -338,38 +338,6 @@ TV3,http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 TV9,http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 
-Msia test,#genre#
-test,http://iptvstream.xyz:8080/Mcnsi/7210db0d/174701
-TV 1 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/158357
-TV 2 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/158355
-TV 3 HDhttp://iptvstream.xyz:8080/Mcnsi/7210db0d/158360
-TV 9 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/171953
-8TV HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/171968
-Astro AEC HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247409
-AEC,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247409
-Astro Hua Hee Dai HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247424
-Astro Shuang Xing HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247428
-Astro Xiao Tai Yang HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/201164
-TVB Entertainment News HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157472
-TVB Xing He HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157473
-TVN HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157476
-TVN Movies HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157520
-AXN HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157542
-Warner TV HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157550
-Sony Channel HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/171974
-TLC HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157483
-EUROSPORT 1 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/158353
-nickelodeon HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157541
-Astro SuperSport 1 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/146068
-Astro SuperSport 2 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157556
-Astro SuperSport 3 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157557
-Astro SuperSport 4 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157558
-Astro AOD 311 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/264512
-Astro AOD 352 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247411
-Astro AOD 353 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247412
-Astro AOD 354 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247413
-Astro AOD 355 HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/247414
-Astro Cricket HD,http://iptvstream.xyz:8080/Mcnsi/7210db0d/157565
 
 
 
