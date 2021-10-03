@@ -2526,7 +2526,7 @@ EBS 2,http://132.145.83.248:9981/stream/channelid/1135671778
 TBS,http://132.145.83.248:9981/stream/channelid/582084395
 
 
-Test,#genre#
+台湾测试,#genre#
 民視,http://sytv.xtvants.fun/mytv.php?id=ms&token=free&user=free 
 民視第一台,http://sytv.xtvants.fun/mytv.php?id=msdy&token=free&user=free 
 民視台灣台,http://sytv.xtvants.fun/mytv.php?id=mstw&token=free&user=free 
