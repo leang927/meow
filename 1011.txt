@@ -1384,7 +1384,7 @@ Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 
 
 
-Test_710924,#genre#
+Test,#genre#
 20211012,http://www.iptv.wang/live.php?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplgumtDExr0K%2BtQnp572A2M3sYG0F%2B%2B12Xl4EpG9KHMaj
 國家人文,rtmp://61.216.43.210/channel/60b4e50239e1b02e8b910ca6?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplgumtDExr0K%2BtQnp572A2M3sYG0F%2B%2B12Xl4EpG9KHMaj
 WAKUWAKU,rtmp://45.83.118.242/channel/60b4e50239e1b02e8b910d38?sign=epgg4bkSF4hx%2BZ5WNsuYKsEplgumtDExr0K%2BtQnp572A2M3sYG0F%2B%2B12Xl4EpG9KHMaj
