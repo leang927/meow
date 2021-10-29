@@ -1,287 +1,284 @@
 
-M'sia(开VPN),#genre#
-TV 1,http://iptv.tvmalaysia.cc:80/989898/989898/7177
-TV 2,http://iptv.tvmalaysia.cc:80/989898/989898/7178
-TV 3,http://iptv.tvmalaysia.cc:80/989898/989898/7266
-TV 3 HD,http://iptv.tvmalaysia.cc:80/989898/989898/8750
-8TV,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
-TV 9,http://iptv.tvmalaysia.cc:80/989898/989898/7185
-RTM Sports,http://iptv.tvmalaysia.cc:80/989898/989898/7186
-TV IKIM,http://iptv.tvmalaysia.cc:80/989898/989898/7192
-Berita RTM,http://iptv.tvmalaysia.cc:80/989898/989898/7191
-BERNAMA,http://iptv.tvmalaysia.cc:80/989898/989898/7190
-RTB MALAYSIA,http://iptv.tvmalaysia.cc:80/989898/989898/7188
-Astro Boo,http://iptv.tvmalaysia.cc:80/989898/989898/8872
-Awesome TV,http://iptv.tvmalaysia.cc:80/989898/989898/9016
-ABC Australia,http://iptv.tvmalaysia.cc:80/989898/989898/6692
-Asian Food Network HD,http://iptv.tvmalaysia.cc:80/989898/989898/6693
-Animal Planet HD,http://iptv.tvmalaysia.cc:80/989898/989898/6695
-Animax,http://iptv.tvmalaysia.cc:80/989898/989898/6696
-Aniplus HD,http://iptv.tvmalaysia.cc:80/989898/989898/6697
-ASTRO AEC HD,http://iptv.tvmalaysia.cc:80/989898/989898/6701
-ASTRO AOD 351 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6702
-ASTRO AOD 352 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6703
-ASTRO AOD 353 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6704
-ASTRO AOD 354 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6705
-ASTRO AOD 355 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6706
-ASTRO GO Shop 2,http://iptv.tvmalaysia.cc:80/989898/989898/6718
+港台,#genre#
+TVB翡翠台,http://45.78.59.78:13164/play.php?token=Yv4uR%2FfN36FWMWlKLxOyG0Jf&tid=gt&id=1
+凤凰卫视中文,http://45.78.59.78:13164/play.php?token=GPAhn3ugKPESQAwZncZGhIfp&tid=gt&id=2
+凤凰卫视资讯,http://45.78.59.78:13164/play.php?token=nIR3Bszs4qxNLpTXnETyaIRU&tid=gt&id=3
+凤凰香港高清,http://45.78.59.78:13164/play.php?token=fDiMQpIrDEIwaO3%2FzGTMw1gA&tid=gt&id=4
+香港卫视HKS,http://45.78.59.78:13164/play.php?token=tXQNdr50IGiSXawuqW4d%2BnfQ&tid=gt&id=6
+香港开电视,http://45.78.59.78:13164/play.php?token=OUS5%2FWo2tpunrH6P7x0k15jR&tid=gt&id=7
+ViuTV,http://45.78.59.78:13164/play.php?token=nY%2BdUMryZ0%2BpV55O5SRJ0PLS&tid=gt&id=8
+TVB无线新闻台,http://45.78.59.78:13164/play.php?token=s0DbyFsE1Uhq6ZaQ1Di6aFCi&tid=gt&id=9
+TVB无线财经资讯台,http://45.78.59.78:13164/play.php?token=wYajb8y5euUoRZOLNPLZODBy&tid=gt&id=10
+TVB J2台,http://45.78.59.78:13164/play.php?token=1we%2BMIJshRn4qCwR6S%2FyhGV5&tid=gt&id=12
+TVB明珠台,http://45.78.59.78:13164/play.php?token=QBuF51kbfN5y1Zh1s73MY3U0&tid=gt&id=13
+NOW新闻台,http://45.78.59.78:13164/play.php?token=31O3KdVRqsq%2FRiwTg9cV3KZD&tid=gt&id=16
+星空卫视,http://45.78.59.78:13164/play.php?token=QQTq8Xq0ofBuOdJtdrbQGMzt&tid=gt&id=18
+耀才财经,http://45.78.59.78:13164/play.php?token=36%2Fv9BXFW56zJ13veo1kdw2A&tid=gt&id=19
+港台电视31,http://45.78.59.78:13164/play.php?token=cospOkUq8JrsLl5tfGCYT7MF&tid=gt&id=20
+港台电视32,http://45.78.59.78:13164/play.php?token=dAu5YZSR7MagfwIBfeD0jbLy&tid=gt&id=21
+香港有线电影台,http://45.78.59.78:13164/play.php?token=9FyFBDIq2v%2BZou9kB03Qt55Q&tid=gt&id=23
+香港有线新闻台,http://45.78.59.78:13164/play.php?token=WZHn6eOwQcUypX4FNYkW50e3&tid=gt&id=24
+香港有线18台,http://45.78.59.78:13164/play.php?token=dCQr7aP92XJ8powjSLxxc6Jv&tid=gt&id=25
+香港有线高清603台,http://45.78.59.78:13164/play.php?token=y1US4UWRtqH2KdjZIai8%2Babt&tid=gt&id=26
+香港有线娱乐台,http://45.78.59.78:13164/play.php?token=zcCQwpd88IrtAeRGNWBDTUgH&tid=gt&id=27
+香港有线财经资讯台,http://45.78.59.78:13164/play.php?token=gxXdNb2Yg4mfCGG0tV1wAjRt&tid=gt&id=28
+澳门莲花,http://45.78.59.78:13164/play.php?token=IUnwgtAmh8cMCT5kRPpcXCtm&tid=gt&id=30
+澳门卫视,http://45.78.59.78:13164/play.php?token=GXoLBzDGH1xnxLPwpVNjdQho&tid=gt&id=31
+澳视资讯,http://45.78.59.78:13164/play.php?token=kP76yv01e%2BBphWdWyca%2BMHm%2F&tid=gt&id=32
+澳視澳門,http://45.78.59.78:13164/play.php?token=1ocxCMxbfTeik8FFmoNyTJ4E&tid=gt&id=33
+澳視卫星,http://45.78.59.78:13164/play.php?token=amoTeNwlqvfnOu2N4xWhcTdY&tid=gt&id=34
+澳門Macau,http://45.78.59.78:13164/play.php?token=nyevNopY0tTTt3PzlpFNQ%2B1A&tid=gt&id=35
+澳视卫星,http://45.78.59.78:13164/play.php?token=qahbZg6AUy0vaI%2Bg1T1kVrNt&tid=gt&id=36
+澳视综艺,http://45.78.59.78:13164/play.php?token=mofkEgCEFpYyJTa9EPdbeaYg&tid=gt&id=37
+澳视葡文,http://45.78.59.78:13164/play.php?token=%2F1biuUlvY2Vbsu6seENJ12iY&tid=gt&id=38
+澳門3台,http://45.78.59.78:13164/play.php?token=hNNLZnd%2FIzztUwUEtC74Iomc&tid=gt&id=39
+澳門微电影,http://45.78.59.78:13164/play.php?token=1gmdwEQIS03pFl7lx7%2FK6aO4&tid=gt&id=40
+澳门葡萄牙,http://45.78.59.78:13164/play.php?token=nauKvnBzeDct6rJwOTWaKGXX&tid=gt&id=41
+HBO HD,http://45.78.59.78:13164/play.php?token=21cO3qJO8Rw49tkLohwl99n1&tid=gt&id=43
+Discovery,http://45.78.59.78:13164/play.php?token=p4TzL90ziayfta1xwB8qoG5q&tid=gt&id=45
+国家地理,http://45.78.59.78:13164/play.php?token=4TJy3IlYyYtSt6O3kcjydUvi&tid=gt&id=46
+卫视中文台,http://45.78.59.78:13164/play.php?token=4EARFRT69lqzwInN33bHgu1h&tid=gt&id=47
+三立综合台,http://45.78.59.78:13164/play.php?token=nWQWM5Nek19QoGTmNUy%2FzUn%2B&tid=gt&id=48
+三立都会台,http://45.78.59.78:13164/play.php?token=butVp2Nb2XczQ63RuFA0t%2BE6&tid=gt&id=49
+三立戏剧台,http://45.78.59.78:13164/play.php?token=mLddyUkny4vEjHbP9k%2F3KBMh&tid=gt&id=50
+三立台湾台,http://45.78.59.78:13164/play.php?token=vhlzpP8VQU%2BoeMjmUks4CpyT&tid=gt&id=51
+中天新闻台,http://45.78.59.78:13164/play.php?token=2EoeLMUzvqHi1d7ZwpVLWjfO&tid=gt&id=53
+TVBS新闻台,http://45.78.59.78:13164/play.php?token=6o9AdH2FLyDohmLqA3apSbHt&tid=gt&id=54
+东森新闻台,http://45.78.59.78:13164/play.php?token=NK1GrorY7bljIRGhCg7eOZhJ&tid=gt&id=55
+三立新闻台,http://45.78.59.78:13164/play.php?token=0Y%2Flyl64E2KkVR0e%2Fhl3tc1%2F&tid=gt&id=57
+壹新闻,http://45.78.59.78:13164/play.php?token=lz3uOqW0Hy2RMdqjQRnmav5j&tid=gt&id=58
+民视新闻台,http://45.78.59.78:13164/play.php?token=71hJ8TMYP%2FGJxoAJrLJnUJT%2F&tid=gt&id=59
+中视新闻,http://45.78.59.78:13164/play.php?token=1%2Fp4%2BB8XtpvWBOYd0qZC98jZ&tid=gt&id=60
+年代新闻,http://45.78.59.78:13164/play.php?token=482tKdeGnxtBGMJ4oof6jMZm&tid=gt&id=61
+非凡新闻台,http://45.78.59.78:13164/play.php?token=Z31CPv3fawNhMU%2BxJoyinN%2Fm&tid=gt&id=62
+寰宇新闻台,http://45.78.59.78:13164/play.php?token=hLpGF2m4i7bIaUd3LotaneA7&tid=gt&id=63
+寰宇新闻2台,http://45.78.59.78:13164/play.php?token=LeWn3Wbuihf0kC%2FMXrCbRCpN&tid=gt&id=64
+八大综合台,http://45.78.59.78:13164/play.php?token=TM0TfbKwtaYS14VeTS5ncxxb&tid=gt&id=66
+八大娱乐台,http://45.78.59.78:13164/play.php?token=e%2B8VZN9ZKUVQcuXxGpxm7Xtc&tid=gt&id=67
+东森电影,http://45.78.59.78:13164/play.php?token=ao2MCyOKg8Yg%2BgjfOehhnT%2Fl&tid=gt&id=68
+东森超视,http://45.78.59.78:13164/play.php?token=dQHlcCTYMxdQE7qznKk0XLgR&tid=gt&id=69
+东森综合台,http://45.78.59.78:13164/play.php?token=fhKS16YDGVfKDsBjol%2Fy48YY&tid=gt&id=70
+东森亚洲,http://45.78.59.78:13164/play.php?token=%2Bc0opA2%2FBDAfRQCDHd41Y8oP&tid=gt&id=71
+东森洋片,http://45.78.59.78:13164/play.php?token=a5FB1tglPUEbfZuysX1UJjR4&tid=gt&id=72
+东森幼幼,http://45.78.59.78:13164/play.php?token=dUHoNWT3BpK3Wup%2FcYR4twE0&tid=gt&id=73
+东森戏剧台,http://45.78.59.78:13164/play.php?token=2b6GAYT%2BGUT%2B8zizilt8NhWv&tid=gt&id=74
+好莱坞电影台,http://45.78.59.78:13164/play.php?token=fjoNv4cuGrDDPG36mr54ExYK&tid=gt&id=75
+龙祥时代,http://45.78.59.78:13164/play.php?token=Tn5dtX4gKHqv%2B8tu7NCjQ07b&tid=gt&id=76
+华纳 TV,http://45.78.59.78:13164/play.php?token=b%2BRn9ctaWllNGZpT%2Fk0F00vJ&tid=gt&id=78
+星卫电影台,http://45.78.59.78:13164/play.php?token=C%2FxhPoQFOpvFYk654quo1LhS&tid=gt&id=79
+美亚电影台,http://45.78.59.78:13164/play.php?token=XvaKwc%2BFs2a%2B5bEQ7I%2FXJlNC&tid=gt&id=80
+卫视电影台,http://45.78.59.78:13164/play.php?token=d%2BAOhsxqf08OfVb4kVg6TonN&tid=gt&id=81
+中视HD,http://45.78.59.78:13164/play.php?token=gNT6ZKARHhSAV7yFb1KUmF%2BY&tid=gt&id=82
+台视HD,http://45.78.59.78:13164/play.php?token=2ESbkNZjVT6W9NIcPWSShBK5&tid=gt&id=83
+民视HD,http://45.78.59.78:13164/play.php?token=imuUout6ggax1qepQHwTNDaS&tid=gt&id=84
+公视HD,http://45.78.59.78:13164/play.php?token=xmEFbuMBlIQBlZGAik4ehkL6&tid=gt&id=85
+华视HD,http://45.78.59.78:13164/play.php?token=fzqAVhfhHGvz0Ce5%2F91FQtbH&tid=gt&id=86
+中天综合,http://45.78.59.78:13164/play.php?token=0H3oe3F1bcaWc8E2jEc0NtIK&tid=gt&id=89
+中天娱乐,http://45.78.59.78:13164/play.php?token=nKGAVIfdx5wULc7MBwNLNbNm&tid=gt&id=90
+中天亚洲,http://45.78.59.78:13164/play.php?token=ahS1aJ2NL9T0D9IW3ggiId7w&tid=gt&id=91
+动物星球,http://45.78.59.78:13164/play.php?token=U%2B7bWDE44%2BBB4Vh988YsWLZy&tid=gt&id=93
+TVBS(HD),http://45.78.59.78:13164/play.php?token=9FTA%2Fg2qW7EvMGvaOSKlp5y2&tid=gt&id=95
+TVBS精彩台,http://45.78.59.78:13164/play.php?token=3zc%2FY0bR6617UMRe1ow%2B2m5y&tid=gt&id=96
+TVBS欢乐台(HD),http://45.78.59.78:13164/play.php?token=1Gqa33xbcJ2BZ0w0TSKR0jez&tid=gt&id=97
+民视台湾台,http://45.78.59.78:13164/play.php?token=voif%2FhHmQxIFcmHmu5yNIYTa&tid=gt&id=99
+民视第一台,http://45.78.59.78:13164/play.php?token=R8XhIrEuPg4LqFZ%2FskvxR%2BgO&tid=gt&id=100
+民视综艺,http://45.78.59.78:13164/play.php?token=V6h%2FDBqy0CNb5AbTfGhKDwJF&tid=gt&id=101
+民视旅游,http://45.78.59.78:13164/play.php?token=wupWw96H%2FWDM7N4MPYPFBvbc&tid=gt&id=102
+民视影剧,http://45.78.59.78:13164/play.php?token=wslqBo3m4n0S2TV2BQ6CLatH&tid=gt&id=103
+FOX HD,http://45.78.59.78:13164/play.php?token=bUmJSDmkbvOJHulaBBwxvJYR&tid=gt&id=105
+FOX SPORTS(HD),http://45.78.59.78:13164/play.php?token=Ssh63yNfvXNmO8mXeUsRzhed&tid=gt&id=106
+FOX SPORTS 2(HD),http://45.78.59.78:13164/play.php?token=35qoNHQxN44tpM3OXb4Kft53&tid=gt&id=107
+FOX MOVIES(HD),http://45.78.59.78:13164/play.php?token=q8ysw4ly9w%2BsXbAiClv0Hfqn&tid=gt&id=108
+Channel [V],http://45.78.59.78:13164/play.php?token=tP1t%2B%2F4oyaUKz7d0x35SpCoG&tid=gt&id=110
+Star Sport,http://45.78.59.78:13164/play.php?token=OfVTNIWdQS5CmO%2FsJrVN1cbU&tid=gt&id=111
 
-ASTRO iQIYI HD,http://iptv.tvmalaysia.cc:80/989898/989898/6723
-ASTRO Hua Hee Dai HD,http://iptv.tvmalaysia.cc:80/989898/989898/6722
-ASTRO Hello,http://iptv.tvmalaysia.cc:80/989898/989898/6721
-ASTRO Oh!K HD,http://iptv.tvmalaysia.cc:80/989898/989898/6726
-ASTRO Quan Jia HD,http://iptv.tvmalaysia.cc:80/989898/989898/6728
-ASTRO Shuang Xing HD,http://iptv.tvmalaysia.cc:80/989898/989898/6731
-Astro Wah Lai Toi,http://iptv.tvmalaysia.cc:80/989898/989898/8970
-ASTRO Xiao Tai Yang HD,http://iptv.tvmalaysia.cc:80/989898/989898/6741
-AXN HD,http://iptv.tvmalaysia.cc:80/989898/989898/6743
-BBC Lifestyle,http://iptv.tvmalaysia.cc:80/989898/989898/6746
-Bernama News,http://iptv.tvmalaysia.cc:80/989898/989898/6750
-Bloomberg TV,http://iptv.tvmalaysia.cc:80/989898/989898/6751
-BollyOne HD,http://iptv.tvmalaysia.cc:80/989898/989898/6754
-Channel News Asia HD,http://iptv.tvmalaysia.cc:80/989898/989898/6765
-Cinemax HD,http://iptv.tvmalaysia.cc:80/989898/989898/6764
-Celestial Movies HD,http://iptv.tvmalaysia.cc:80/989898/989898/6760
-CCTV4 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6759
-Celestial Classic Movies,http://iptv.tvmalaysia.cc:80/989898/989898/6758
-Cartoon Network HD,http://iptv.tvmalaysia.cc:80/989898/989898/6757
-crime &amp; investigation HD,http://iptv.tvmalaysia.cc:80/989898/989898/6756
-FX Cinema HD,http://iptv.tvmalaysia.cc:80/989898/989898/6795
-France 24 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6794
-Food Network HD,http://iptv.tvmalaysia.cc:80/989898/989898/6785
-Eurosport HD,http://iptv.tvmalaysia.cc:80/989898/989898/6784
-eGG Network,http://iptv.tvmalaysia.cc:80/989898/989898/6783
-DW HD,http://iptv.tvmalaysia.cc:80/989898/989898/6782
-Dreamworks HD,http://iptv.tvmalaysia.cc:80/989898/989898/6780
-DMAX HD,http://iptv.tvmalaysia.cc:80/989898/989898/6778
-Discovery Science HD,http://iptv.tvmalaysia.cc:80/989898/989898/6774
-Discovery HD,http://iptv.tvmalaysia.cc:80/989898/989898/6773
-Discovery Asia,http://iptv.tvmalaysia.cc:80/989898/989898/6772
-CTI Asia,http://iptv.tvmalaysia.cc:80/989898/989898/6771
-Comedy Central,http://iptv.tvmalaysia.cc:80/989898/989898/6770
-Colors HD,http://iptv.tvmalaysia.cc:80/989898/989898/6769
-Colors Cineplex,http://iptv.tvmalaysia.cc:80/989898/989898/6768
-CNN HD,http://iptv.tvmalaysia.cc:80/989898/989898/6767
-CNBC,http://iptv.tvmalaysia.cc:80/989898/989898/6766
-Warner TV,http://iptv.tvmalaysia.cc:80/989898/989898/6848
-UTV Movies International,http://iptv.tvmalaysia.cc:80/989898/989898/6847
-TV SARAWAK,http://iptv.tvmalaysia.cc:80/989898/989898/6846
-tvN Movies,http://iptv.tvmalaysia.cc:80/989898/989898/6845
-tvN HD,http://iptv.tvmalaysia.cc:80/989898/989898/6844
-TVBS Asia HD,http://iptv.tvmalaysia.cc:80/989898/989898/6843
-TVB Xing He HD,http://iptv.tvmalaysia.cc:80/989898/989898/6842
-TVB Jade HD,http://iptv.tvmalaysia.cc:80/989898/989898/6841
-TVB E-News,http://iptv.tvmalaysia.cc:80/989898/989898/6840
-TVB Classic,http://iptv.tvmalaysia.cc:80/989898/989898/6839
-Travel Channel HD,http://iptv.tvmalaysia.cc:80/989898/989898/6833
-TLC HD,http://iptv.tvmalaysia.cc:80/989898/989898/6832
-Sun Music,http://iptv.tvmalaysia.cc:80/989898/989898/6831
-Sony TV,http://iptv.tvmalaysia.cc:80/989898/989898/6829
-Sony SAB,http://iptv.tvmalaysia.cc:80/989898/989898/6827
-Sky News HD,http://iptv.tvmalaysia.cc:80/989898/989898/6826
-One HD,http://iptv.tvmalaysia.cc:80/989898/989898/6817
-Nickelodeon HD,http://iptv.tvmalaysia.cc:80/989898/989898/6814
-Nick Jr,http://iptv.tvmalaysia.cc:80/989898/989898/6813
-NatGeo People,http://iptv.tvmalaysia.cc:80/989898/989898/6811
-MTV,http://iptv.tvmalaysia.cc:80/989898/989898/6807
-KPlus HD,http://iptv.tvmalaysia.cc:80/989898/989898/6805
-Kix HD,http://iptv.tvmalaysia.cc:80/989898/989898/6804
-KBS World HD,http://iptv.tvmalaysia.cc:80/989898/989898/6803
-Hits Movies HD,http://iptv.tvmalaysia.cc:80/989898/989898/6801
-Hits HD,http://iptv.tvmalaysia.cc:80/989898/989898/6800
-History HD,http://iptv.tvmalaysia.cc:80/989898/989898/6799
-HGTV HD,http://iptv.tvmalaysia.cc:80/989898/989898/6798
-HBO HD,http://iptv.tvmalaysia.cc:80/989898/989898/6797
-Fox Movies Premium,http://iptv.tvmalaysia.cc:80/989898/989898/8838
-Fox Action Movies,http://iptv.tvmalaysia.cc:80/989898/989898/8839
-Cinemax FHD,http://iptv.tvmalaysia.cc:80/989898/989898/7062
-HBO FHD,http://iptv.tvmalaysia.cc:80/989898/989898/7067
-HBO Hits FHD,http://iptv.tvmalaysia.cc:80/989898/989898/7068
-HBO Signature FHD,http://iptv.tvmalaysia.cc:80/989898/989898/7069
-HBO Family FHD,http://iptv.tvmalaysia.cc:80/989898/989898/7070
-Hits Movies,http://iptv.tvmalaysia.cc:80/989898/989898/7066
-Red By HBO HD,http://iptv.tvmalaysia.cc:80/989898/989898/7071
-Warner TV HD,http://iptv.tvmalaysia.cc:80/989898/989898/7072
-tVN movies HD,http://iptv.tvmalaysia.cc:80/989898/989898/7074
-National Geographic HD,http://iptv.tvmalaysia.cc:80/989898/989898/7075
-Nat Geo Wild HD,http://iptv.tvmalaysia.cc:80/989898/989898/7081
-Nat Geo People HD,http://iptv.tvmalaysia.cc:80/989898/989898/7080
-History FHD,http://iptv.tvmalaysia.cc:80/989898/989898/7079
-Discovery Channel HD,http://iptv.tvmalaysia.cc:80/989898/989898/7078
-Animal Planet,http://iptv.tvmalaysia.cc:80/989898/989898/7077
-HGTV,http://iptv.tvmalaysia.cc:80/989898/989898/7076
-THR GEGAR,http://iptv.tvmalaysia.cc:80/989898/989898/7174
-Cinema World,http://iptv.tvmalaysia.cc:80/989898/989898/7219
-Thrill,http://iptv.tvmalaysia.cc:80/989898/989898/7220
-AXN,http://iptv.tvmalaysia.cc:80/989898/989898/7223
-Fox Crime,http://iptv.tvmalaysia.cc:80/989898/989898/7225
-FOX,http://iptv.tvmalaysia.cc:80/989898/989898/7227
-Fox Life,http://iptv.tvmalaysia.cc:80/989898/989898/7228
-KiX,http://iptv.tvmalaysia.cc:80/989898/989898/7229
-Celestial Classic Movies.,http://iptv.tvmalaysia.cc:80/989898/989898/7222
-BBC Earth,http://iptv.tvmalaysia.cc:80/989898/989898/7233
-Celestial Movies,http://iptv.tvmalaysia.cc:80/989898/989898/7235
-WLT JADE,http://iptv.tvmalaysia.cc:80/989898/989898/8836
-Asia Food Network,http://iptv.tvmalaysia.cc:80/989898/989898/8857
-Crime &amp; Investigation,http://iptv.tvmalaysia.cc:80/989898/989898/8858
-Blue Ant Entertainment,http://iptv.tvmalaysia.cc:80/989898/989898/8860
-Blue Ant Extreme,http://iptv.tvmalaysia.cc:80/989898/989898/8861
-TLC,http://iptv.tvmalaysia.cc:80/989898/989898/8862
-Sony One,http://iptv.tvmalaysia.cc:80/989898/989898/8863
-Sony Gem,http://iptv.tvmalaysia.cc:80/989898/989898/8864
-TvN,http://iptv.tvmalaysia.cc:80/989898/989898/8865
-Disney Channel HD,http://iptv.tvmalaysia.cc:80/989898/989898/7196
 
-=== ASTRO SPORTS ===,http://iptv.tvmalaysia.cc:80/989898/989898/7214
-ASTRO Arena HD,http://iptv.tvmalaysia.cc:80/989898/989898/6707
-Arena ( B ),http://iptv.tvmalaysia.cc:80/989898/989898/9010
-ASTRO SUPERSPORT HD,http://iptv.tvmalaysia.cc:80/989898/989898/6708
-ASTRO SUPERSPORT 2 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6710
-ASTRO SUPERSPORT 3 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6711
-ASTRO SUPERSPORT 4 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6712
-FOX Sports HD,http://iptv.tvmalaysia.cc:80/989898/989898/6793
-FOX Sports 2 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6791
-FOX Sports 3 HD,http://iptv.tvmalaysia.cc:80/989898/989898/6792
-ASTRO Cricket,http://iptv.tvmalaysia.cc:80/989898/989898/6717
-beIN Sports,http://iptv.tvmalaysia.cc:80/989898/989898/6749
-beIN MAX,http://iptv.tvmalaysia.cc:80/989898/989898/6748
-beIN MAX 2,http://iptv.tvmalaysia.cc:80/989898/989898/7195
-WWE Network,http://iptv.tvmalaysia.cc:80/989898/989898/6849
-Rugby Pass TV,http://iptv.tvmalaysia.cc:80/989898/989898/6821
-Golf Channel HD,http://iptv.tvmalaysia.cc:80/989898/989898/6796
-====== TSN ======,http://iptv.tvmalaysia.cc:80/989898/989898/8969
-TSN 1,http://iptv.tvmalaysia.cc:80/989898/989898/8923
-TSN 2,http://iptv.tvmalaysia.cc:80/989898/989898/8924
-TSN 4,http://iptv.tvmalaysia.cc:80/989898/989898/8926
-TSN 3,http://iptv.tvmalaysia.cc:80/989898/989898/8925
-=== DSTV Supersport ===,http://iptv.tvmalaysia.cc:80/989898/989898/7215
-DSTV: SuperSport Grandstand,http://iptv.tvmalaysia.cc:80/989898/989898/6572
-DSTV: SuperSport PSL,http://iptv.tvmalaysia.cc:80/989898/989898/6573
-DSTV: SuperSport Premier League,http://iptv.tvmalaysia.cc:80/989898/989898/6574
-DSTV: SuperSport La Liga,http://iptv.tvmalaysia.cc:80/989898/989898/6575
-DSTV: SuperSport Football,http://iptv.tvmalaysia.cc:80/989898/989898/6576
-DSTV: SuperSport Variety 1,http://iptv.tvmalaysia.cc:80/989898/989898/6577
-DSTV: SuperSport Variety 2,http://iptv.tvmalaysia.cc:80/989898/989898/6578
-DSTV: SuperSport Variety 3,http://iptv.tvmalaysia.cc:80/989898/989898/6579
-DSTV: SuperSport Variety 4,http://iptv.tvmalaysia.cc:80/989898/989898/6580
-DSTV: SuperSport Cricket,http://iptv.tvmalaysia.cc:80/989898/989898/6583
-DSTV: Supersport Blitz,http://iptv.tvmalaysia.cc:80/989898/989898/6584
-DSTV: SuperSport MáXimo,http://iptv.tvmalaysia.cc:80/989898/989898/6585
-DSTV: SuperSport Rugby,http://iptv.tvmalaysia.cc:80/989898/989898/6582
-DSTV: SuperSport Action,http://iptv.tvmalaysia.cc:80/989898/989898/6581
-DSTV: SuperSport Motorsport,http://iptv.tvmalaysia.cc:80/989898/989898/7142
-DSTV: SuperSport Tennis,http://iptv.tvmalaysia.cc:80/989898/989898/7143
-DSTV: SuperSport WWE,http://iptv.tvmalaysia.cc:80/989898/989898/7144
-DSTV: SuperSport Golf,http://iptv.tvmalaysia.cc:80/989898/989898/7145
-BeIN Sport 1,http://iptv.tvmalaysia.cc:80/989898/989898/6597
-BeIN Sport 2,http://iptv.tvmalaysia.cc:80/989898/989898/6598
-BeIN Sport 13,http://iptv.tvmalaysia.cc:80/989898/989898/6609
-=== BT SPORT ===,http://iptv.tvmalaysia.cc:80/989898/989898/7218
-BT Sport 1,http://iptv.tvmalaysia.cc:80/989898/989898/6610
-BT Sport 2,http://iptv.tvmalaysia.cc:80/989898/989898/6611
-BT Sport 3,http://iptv.tvmalaysia.cc:80/989898/989898/6612
-BT Sport ESPN,http://iptv.tvmalaysia.cc:80/989898/989898/6613
-UK: Premier Sports 1,http://iptv.tvmalaysia.cc:80/989898/989898/7112
-UK: Premier Sports 2,http://iptv.tvmalaysia.cc:80/989898/989898/7113
-=== SKY SPORTS ===,http://iptv.tvmalaysia.cc:80/989898/989898/7217
-UK: Sky Sports News,http://iptv.tvmalaysia.cc:80/989898/989898/6614
-UK: Sky Sports Arena,http://iptv.tvmalaysia.cc:80/989898/989898/6615
-UK: Sky Sports F1,http://iptv.tvmalaysia.cc:80/989898/989898/6617
-UK: Sky Sports Golf,http://iptv.tvmalaysia.cc:80/989898/989898/6618
-UK: Sky Sports Football,http://iptv.tvmalaysia.cc:80/989898/989898/6620
-UK: Sky Sports Premier League,http://iptv.tvmalaysia.cc:80/989898/989898/6621
-UK: Sky Sports Cricket,http://iptv.tvmalaysia.cc:80/989898/989898/6619
-UK: Sky Sports Racing,http://iptv.tvmalaysia.cc:80/989898/989898/7114
-UK: Sky Sports Main Event,http://iptv.tvmalaysia.cc:80/989898/989898/7115
-UK: Sky Sports Mix,http://iptv.tvmalaysia.cc:80/989898/989898/7116
-MUTV,http://iptv.tvmalaysia.cc:80/989898/989898/7236
-LFC TV,http://iptv.tvmalaysia.cc:80/989898/989898/7237
-UFC,http://iptv.tvmalaysia.cc:80/989898/989898/7259
-UFC PPV Early Prelims,http://iptv.tvmalaysia.cc:80/989898/989898/7260
-UFC PPV Prelims,http://iptv.tvmalaysia.cc:80/989898/989898/7261
-UFC PPV Main Card,http://iptv.tvmalaysia.cc:80/989898/989898/7262
-PPV Boxing,http://iptv.tvmalaysia.cc:80/989898/989898/7263
+翡翠台,http://zb.q8kk.com/a.php?id=fct
+J2,http://zb.q8kk.com/a.php?id=j2
+J5,http://zb.q8kk.com/a.php?id=j5
+互动新闻HD,http://zb.q8kk.com/a.php?id=hdxwhd
+明珠台,http://zb.q8kk.com/a.php?id=mzt
+星空卫视,http://zb.q8kk.com/a.php?id=xkws
+澳门莲花,http://zb.q8kk.com/a.php?id=amlh
+阳光卫视,http://zb.q8kk.com/a.php?id=ygws
+国家地理,http://zb.q8kk.com/a.php?id=gjdlpd
+地理野生,http://zb.q8kk.com/a.php?id=gjdlyspd
+HBOHD,http://zb.q8kk.com/a.php?id=hbohd
+HBO强档巨献,http://zb.q8kk.com/a.php?id=hboqdjx
+HBO原创巨献,http://zb.q8kk.com/a.php?id=hboycjx
+FOX动作电影,http://zb.q8kk.com/a.php?id=foxdzdy
+FOX优质电影,http://zb.q8kk.com/a.php?id=foxyzdy
+FOX家庭影院,http://zb.q8kk.com/a.php?id=foxjtyy
+星卫HD电影,http://zb.q8kk.com/a.php?id=xwhddy
+美亚电影台HD,http://zb.q8kk.com/a.php?id=mydythd
+龙华电影,http://zb.q8kk.com/a.php?id=longhdy
+卫视电影台湾,http://zb.q8kk.com/a.php?id=wsdytw
+凤凰电影,http://zb.q8kk.com/a.php?id=fenghuangdy
+卫视洋片HD,http://zb.q8kk.com/a.php?id=wsyphd
+天映电影,http://zb.q8kk.com/a.php?id=tydy
+龙祥电影,http://zb.q8kk.com/a.php?id=lxdy
+东森电影,http://zb.q8kk.com/a.php?id=dsdy
+纬来电影,http://zb.q8kk.com/a.php?id=wldy
+东森洋片,http://zb.q8kk.com/a.php?id=dsyp
+龙华洋片,http://zb.q8kk.com/a.php?id=lhyp
+靖天电影台,http://zb.q8kk.com/a.php?id=jtdyt
+靖天映画,http://zb.q8kk.com/a.php?id=jtyh
+TVBS,http://zb.q8kk.com/a.php?id=tvbs
+TVBS欢乐HD,http://zb.q8kk.com/a.php?id=tvbshl
+TVB8,http://zb.q8kk.com/a.php?id=tvb8
+公视HD,http://zb.q8kk.com/a.php?id=gshd
+中天亚洲,http://zb.q8kk.com/a.php?id=ztyzt
+中视HD,http://zb.q8kk.com/a.php?id=zshd
+东森戏剧,http://zb.q8kk.com/a.php?id=dsxj
+东森财经,http://zb.q8kk.com/a.php?id=dscj
+华视HD,http://zb.q8kk.com/a.php?id=hshd
+中天娱乐,http://zb.q8kk.com/a.php?id=ztyl
+星卫娱乐台,http://zb.q8kk.com/a.php?id=xwylt
+八大综合台,http://zb.q8kk.com/a.php?id=bdzht
+八大第一台,http://zb.q8kk.com/a.php?id=bddyt
+八大娱乐台,http://zb.q8kk.com/a.php?id=bdylt
+八大戏剧,http://zb.q8kk.com/a.php?id=bdxj
+纬来日本,http://zb.q8kk.com/a.php?id=wlrb
+纬来育乐,http://zb.q8kk.com/a.php?id=wlyl
+纬来体育,http://zb.q8kk.com/a.php?id=wlty
+三立台湾,http://zb.q8kk.com/a.php?id=sltw
+三立都会,http://zb.q8kk.com/a.php?id=sldh
+中天综合,http://zb.q8kk.com/a.php?id=ztzh
+东森综合,http://zb.q8kk.com/a.php?id=dszh
+壹电视综合,http://zb.q8kk.com/a.php?id=ydszh
+韩国娱乐台,http://zb.q8kk.com/a.php?id=hgylt
+EYETV旅游,http://zb.q8kk.com/a.php?id=eyetvly
+卫视中文台,http://zb.q8kk.com/a.php?id=wszwt
+民视,http://zb.q8kk.com/a.php?id=ms
+纬来综合,http://zb.q8kk.com/a.php?id=wlzh
+东森幼幼,http://zb.q8kk.com/a.php?id=dsyy
+大爱二台,http://zb.q8kk.com/a.php?id=daet
+中天新闻HD,http://zb.q8kk.com/a.php?id=ztxw
+年代新闻HD,http://zb.q8kk.com/a.php?id=ndxw
+东森新闻HD,http://zb.q8kk.com/a.php?id=dsxw
+三立新闻HD,http://zb.q8kk.com/a.php?id=slxw
+民视新闻,http://zb.q8kk.com/a.php?id=msxw
+非凡新闻,http://zb.q8kk.com/a.php?id=ffxw
+FXHD,http://zb.q8kk.com/a.php?id=fxhd
+历史2台,http://zb.q8kk.com/a.php?id=ls2t               
+LIFE时尚生活,http://zb.q8kk.com/a.php?id=lifesssh
+UNIVERSAL,http://zb.q8kk.com/a.php?id=universal
+CNN,http://zb.q8kk.com/a.php?id=cnn
+FOX,http://zb.q8kk.com/a.php?id=fox
+MTVLIVE,http://zb.q8kk.com/a.php?id=mtvlive
+V音乐台,http://zb.q8kk.com/a.php?id=vyy
+Animax,http://zb.q8kk.com/a.php?id=animax
+动物星球,http://zb.q8kk.com/a.php?id=dwxq
+SBS,http://zb.q8kk.com/a.php?id=sbs
+KBS1,http://zb.q8kk.com/a.php?id=kbs1
+KBS2,http://zb.q8kk.com/a.php?id=kbs2
+KBSSPORT,http://zb.q8kk.com/a.php?id=kbssport
+ELTA综合,http://zb.q8kk.com/a.php?id=eltazh
+Foxsports,http://zb.q8kk.com/a.php?id=foxsports
+日本映画专门,http://zb.q8kk.com/a.php?id=rbyhzm
+富士电视台,http://zb.q8kk.com/a.php?id=fsdst
+BS1,http://zb.q8kk.com/a.php?id=bs1
+美国中文台,http://zb.q8kk.com/a.php?id=mgzwt
+ESPN,http://zb.q8kk.com/a.php?id=espn
+CNBC,http://zb.q8kk.com/a.php?id=cnbc
+马来TV1,http://a.q8kk.com/g1.php?id=mltv1
+马来TV2,http://a.q8kk.com/g1.php?id=mltv2
+马来TV3,http://a.q8kk.com/g1.php?id=mltv3
+马来西亚TV9,http://a.q8kk.com/g1.php?id=mltv9
+FXHD,http://a.q8kk.com/g1.php?id=fxhd
+TVB娱乐新闻台,http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 
-TH:CTB,http://iptv.tvmalaysia.cc:80/989898/989898/8752
-TH | Celestial Movies HD,http://iptv.tvmalaysia.cc:80/989898/989898/8765
-TH | CTB,http://iptv.tvmalaysia.cc:80/989898/989898/8766
-TH | Channel 8,http://iptv.tvmalaysia.cc:80/989898/989898/8767
-TH | Paramount HD,http://iptv.tvmalaysia.cc:80/989898/989898/8768
-TH | Cinema World,http://iptv.tvmalaysia.cc:80/989898/989898/8769
-TH | Hunan TV HD,http://iptv.tvmalaysia.cc:80/989898/989898/8770
-TH | Blue Ant Extreme HD,http://iptv.tvmalaysia.cc:80/989898/989898/8771
-TH | HGTV,http://iptv.tvmalaysia.cc:80/989898/989898/8772
-TH | Animal Planet HD,http://iptv.tvmalaysia.cc:80/989898/989898/8777
-TH | TLC,http://iptv.tvmalaysia.cc:80/989898/989898/8778
-TH | Outdoor Channel,http://iptv.tvmalaysia.cc:80/989898/989898/8779
-TH | DMAX,http://iptv.tvmalaysia.cc:80/989898/989898/8780
-TH | Voice TV HD,http://iptv.tvmalaysia.cc:80/989898/989898/8781
-TH | TOPNEWS,http://iptv.tvmalaysia.cc:80/989898/989898/8782
-TH | Arirang,http://iptv.tvmalaysia.cc:80/989898/989898/8783
-TH | BBC World News,http://iptv.tvmalaysia.cc:80/989898/989898/8784
-TH | DW,http://iptv.tvmalaysia.cc:80/989898/989898/8785
-TH | France24,http://iptv.tvmalaysia.cc:80/989898/989898/8786
-TH | Al Jazeera,http://iptv.tvmalaysia.cc:80/989898/989898/8787
-TH | Russia Today,http://iptv.tvmalaysia.cc:80/989898/989898/8788
-TH | Sony ESPN HD,http://iptv.tvmalaysia.cc:80/989898/989898/8789
-TH | Cbeebies,http://iptv.tvmalaysia.cc:80/989898/989898/8790
-TH | Baby First,http://iptv.tvmalaysia.cc:80/989898/989898/8791
-TH | DLTV 1,http://iptv.tvmalaysia.cc:80/989898/989898/8792
-TH | DLTV 2,http://iptv.tvmalaysia.cc:80/989898/989898/8793
-TH | DLTV 1,http://iptv.tvmalaysia.cc:80/989898/989898/8794
-TH | DLTV 2,http://iptv.tvmalaysia.cc:80/989898/989898/8795
-TH | DLTV 5,http://iptv.tvmalaysia.cc:80/989898/989898/8796
-TH | DLTV 6,http://iptv.tvmalaysia.cc:80/989898/989898/8797
-TH | DLTV 7,http://iptv.tvmalaysia.cc:80/989898/989898/8798
-TH | DLTV 8,http://iptv.tvmalaysia.cc:80/989898/989898/8799
-TH | DLTV 9,http://iptv.tvmalaysia.cc:80/989898/989898/8800
-TH | DLTV 10,http://iptv.tvmalaysia.cc:80/989898/989898/8801
-TH | DLTV 11,http://iptv.tvmalaysia.cc:80/989898/989898/8802
-TH | DLTV 12,http://iptv.tvmalaysia.cc:80/989898/989898/8803
-TH | NNU5 HD,http://iptv.tvmalaysia.cc:80/989898/989898/8804
-TH | 3 HD,http://iptv.tvmalaysia.cc:80/989898/989898/8805
-TH | 7 HD,http://iptv.tvmalaysia.cc:80/989898/989898/8806
-TH | MCOT HD,http://iptv.tvmalaysia.cc:80/989898/989898/8807
-TH | PPTV HD,http://iptv.tvmalaysia.cc:80/989898/989898/8808
-TH | THAIRATH HD,http://iptv.tvmalaysia.cc:80/989898/989898/8809
-TH | TRUE4U 24 HD,http://iptv.tvmalaysia.cc:80/989898/989898/8810
-TH | PremierHD1,http://iptv.tvmalaysia.cc:80/989898/989898/8811
-TH | PremierHD2,http://iptv.tvmalaysia.cc:80/989898/989898/8812
-TH | PremierHD3,http://iptv.tvmalaysia.cc:80/989898/989898/8813
-TH | PremierHD4,http://iptv.tvmalaysia.cc:80/989898/989898/8814
-TH | PremierHD5,http://iptv.tvmalaysia.cc:80/989898/989898/8815
-TH | SkynetsportHD,http://iptv.tvmalaysia.cc:80/989898/989898/8816
-TH | True Sport HD1,http://iptv.tvmalaysia.cc:80/989898/989898/8817
-TH | True Sport HD2,http://iptv.tvmalaysia.cc:80/989898/989898/8818
-TH | True Sport HD3,http://iptv.tvmalaysia.cc:80/989898/989898/8819
-TH | True Sport HD4,http://iptv.tvmalaysia.cc:80/989898/989898/8820
-TH | Fox Sport2,http://iptv.tvmalaysia.cc:80/989898/989898/8821
-TH | Fox Sport3,http://iptv.tvmalaysia.cc:80/989898/989898/8822
-TH | Tennis HD,http://iptv.tvmalaysia.cc:80/989898/989898/8823
-TH | NBA HD,http://iptv.tvmalaysia.cc:80/989898/989898/8824
-TH | Golf HD,http://iptv.tvmalaysia.cc:80/989898/989898/8825
-TH | FoxMovies,http://iptv.tvmalaysia.cc:80/989898/989898/8826
-TH | FoxMovies,http://iptv.tvmalaysia.cc:80/989898/989898/8827
-TH | FoxThai_TH,http://iptv.tvmalaysia.cc:80/989898/989898/8828
-TH | AXN HD,http://iptv.tvmalaysia.cc:80/989898/989898/8829
-TH | WarnerTV HD,http://iptv.tvmalaysia.cc:80/989898/989898/8830
-TH | HISTORY HD,http://iptv.tvmalaysia.cc:80/989898/989898/8831
-TH | H2 HD,http://iptv.tvmalaysia.cc:80/989898/989898/8832
-TH | DiscoveryHDWorld,http://iptv.tvmalaysia.cc:80/989898/989898/8833
-TH | AnimalPlanet,http://iptv.tvmalaysia.cc:80/989898/989898/8834
-Didik TV (NTV 7),http://iptv.tvmalaysia.cc:80/989898/989898/8922
-Discovery Asia.,http://iptv.tvmalaysia.cc:80/989898/989898/8856
-Tom &amp; Jerry HD,http://iptv.tvmalaysia.cc:80/989898/989898/8986
-STARZ KIDS&amp;FAMILY,http://iptv.tvmalaysia.cc:80/989898/989898/8991
-மக்கள் தொலைக்காட்சி,http://iptv.tvmalaysia.cc:80/989898/989898/8995
-Star Movies HD,http://iptv.tvmalaysia.cc:80/989898/989898/8997
-MNX,http://iptv.tvmalaysia.cc:80/989898/989898/8998
-Movies Now,http://iptv.tvmalaysia.cc:80/989898/989898/8999
-TESTNEW,http://iptv.tvmalaysia.cc:80/989898/989898/9001
-sig,http://iptv.tvmalaysia.cc:80/989898/989898/9005
-FOX ACTION (P),http://iptv.tvmalaysia.cc:80/989898/989898/9006
-foxmoviebeta,http://iptv.tvmalaysia.cc:80/989898/989898/9007
-cinemax..,http://iptv.tvmalaysia.cc:80/989898/989898/9008
+
+
+
+
+
+港台2,#genre#
+探索，,http://23.27.117.154:8099/ms2/media/live/efe2ab4a-fb77-41cf-abdc-0134e6819a8b/playlist.m3u8?ot=MWY3YWFlYTY0YzMyOGZhMDJkZGMxZTQ4Nzc0OWIxYmY6NTg3ZTQ4OWEtN2Y1My00MDE0LTkwYjEtNDQwY2FlNTRhYmRhOmIwNjU1MTIwLTU0OGUtNDRjZC04NmYxLTliYzc3NDhhNGZjYToxNDkyMzE5OTc4NzA0
+民视新闻,vjms://122.155.180.8:8500:3502/live/cid=454|vjms://58.215.41.17:8500:3502/live/cid=454|vjms://122.155.180.8:8500/live/cid=454|http://122.155.180.8:9021/live/454.m3u8|vjms://198.255.90.44:8500:3502/live/cid=454
+年代新闻,vjms://122.155.180.8:8500:3502/live/cid=455|vjms://122.155.180.8:8500/live/cid=455|vjms://58.215.41.17:8500:3502/live/cid=455|http://122.155.180.8:9021/live/455.m3u8|vjms://198.255.90.44:8500:3502/live/cid=455
+东森财经新闻,vjms://122.155.180.8:8500:3502/live/cid=456|vjms://58.215.41.17:8500:3502/live/cid=456|http://122.155.180.8:9021/live/456?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=456
+台壹新闻,vjms://122.155.180.8:8500:3502/live/cid=137|vjms://58.215.41.17:8500:3502/live/cid=137|http://122.155.180.8:9021/live/137?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=137
+东森新闻,vjms://122.155.180.8:8500:3502/live/cid=340|vjms://58.215.41.17:8500:3502/live/cid=340|vjms://122.155.180.8:8500/live/cid=340|http://122.155.180.8:9021/live/340?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=340
+TVBS新闻,vjms://122.155.180.8:8500:3502/live/cid=348|vjms://122.155.180.8:8500/live/cid=348|vjms://58.215.41.17:8500:3502/live/cid=348|http://122.155.180.8:9021/live/348?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=348
+三立新闻,vjms://122.155.180.8:8500:3502/live/cid=352|vjms://122.155.180.8:8500/live/cid=352|vjms://58.215.41.17:8500:3502/live/cid=352|http://122.155.180.8:9021/live/352?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=352
+中天新闻,vjms://122.155.180.8:8500:3502/live/cid=407|vjms://122.155.180.8:8500/live/cid=407|vjms://58.215.41.17:8500:3502/live/cid=407|http://122.155.180.8:9021/live/407?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=407
+非凡新闻,vjms://122.155.180.8:8500:3502/live/cid=443|vjms://122.155.180.8:8500/live/cid=443|vjms://58.215.41.17:8500:3502/live/cid=433|http://122.155.180.8:9021/live/433?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=433
+亲子台,vjms://122.155.180.8:8500:3502/live/cid=2|vjms://58.215.41.17:8500:3502/live/cid=2|http://122.155.180.8:9021/live/2?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=2
+纬来综合,vjms://122.155.180.8:8500:3502/live/cid=3|vjms://58.215.41.17:8500:3502/live/cid=3|http://122.155.180.8:9021/live/3?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=3
+FOX3HD,vjms://122.155.180.8:8500:3502/live/cid=95|vjms://58.215.41.17:8500:3502/live/cid=95|http://122.155.180.8:9021/live/95?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=95
+卫视电影台,vjms://122.155.180.8:8500:3502/live/cid=101|vjms://58.215.41.17:8500:3502/live/cid=101|http://122.155.180.8:9021/live/101?pid=0800270E38B3@5130FVO&begblock=0|vjms://122.155.180.8:8500/live/cid=101|vjms://58.215.41.17:8500:3502/live/cid=101|http://122.155.180.8:9021/live/101?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=101
+纬来体育,vjms://122.155.180.8:8500:3502/live/cid=202|vjms://58.215.41.17:8500:3502/live/cid=202|vjms://122.155.180.8:8500/live/cid=202|http://122.155.180.8:9021/live/202?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=202
+博斯高球,vjms://122.155.180.8:8500:3502/live/cid=265|vjms://122.155.180.8:8500/live/cid=265|vjms://58.215.41.17:8500:3502/live/cid=265|http://122.155.180.8:9021/live/265?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=265
+纬来日本,vjms://122.155.180.8:8500:3502/live/cid=332|vjms://122.155.180.8:8500/live/cid=332|vjms://58.215.41.17:8500:3502/live/cid=332|http://122.155.180.8:9021/live/332?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=332
+东森综合,vjms://122.155.180.8:8500:3502/live/cid=333|vjms://122.155.180.8:8500/live/cid=333|vjms://58.215.41.17:8500:3502/live/cid=333|http://122.155.180.8:9021/live/333?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=333
+澳亚卫视,vjms://122.155.180.8:8500:3502/live/cid=337|vjms://122.155.180.8:8500/live/cid=337|vjms://58.215.41.17:8500:3502/live/cid=337|http://122.155.180.8:9021/live/337?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=337
+东森电影,vjms://122.155.180.8:8500:3502/live/cid=338|vjms://122.155.180.8:8500/live/cid=338|vjms://58.215.41.17:8500:3502/live/cid=338|http://122.155.180.8:9021/live/338?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=338
+JET综合,vjms://122.155.180.8:8500:3502/live/cid=339|vjms://122.155.180.8:8500/live/cid=339|vjms://58.215.41.17:8500:3502/live/cid=339|http://122.155.180.8:9021/live/339?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=339
+中天综合,vjms://122.155.180.8:8500:3502/live/cid=341|vjms://122.155.180.8:8500/live/cid=341|vjms://58.215.41.17:8500:3502/live/cid=341|http://122.155.180.8:9021/live/341?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=341
+东森洋片,vjms://122.155.180.8:8500:3502/live/cid=343|vjms://122.155.180.8:8500/live/cid=343|vjms://58.215.41.17:8500:3502/live/cid=343|http://122.155.180.8:9021/live/343?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=343
+东森幼幼,vjms://122.155.180.8:8500:3502/live/cid=344|vjms://122.155.180.8:8500/live/cid=344|vjms://58.215.41.17:8500:3502/live/cid=344|http://122.155.180.8:9021/live/344?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=344
+TVBs,vjms://122.155.180.8:8500:3502/live/cid=349|vjms://122.155.180.8:8500/live/cid=349|vjms://58.215.41.17:8500:3502/live/cid=349|http://122.155.180.8:9021/live/349?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=349
+中天娱乐,vjms://122.155.180.8:8500:3502/live/cid=350|vjms://122.155.180.8:8500/live/cid=350|vjms://58.215.41.17:8500:3502/live/cid=350|http://122.155.180.8:9021/live/350?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=350
+八大综合,vjms://122.155.180.8:8500:3502/live/cid=354|vjms://122.155.180.8:8500/live/cid=354|vjms://58.215.41.17:8500:3502/live/cid=354|http://122.155.180.8:9021/live/354?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=354
+國興衛視,vjms://122.155.180.8:8500:3502/live/cid=424|vjms://58.215.41.17:8500:3502/live/cid=424|http://122.155.180.8:9021/live/424?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=424
+东森戏剧,vjms://122.155.180.8:8500:3502/live/cid=425|vjms://122.155.180.8:8500/live/cid=425|vjms://58.215.41.17:8500:3502/live/cid=425|http://122.155.180.8:9021/live/425?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=425
+东森超视,vjms://122.155.180.8:8500:3502/live/cid=426|vjms://122.155.180.8:8500/live/cid=426|vjms://58.215.41.17:8500:3502/live/cid=426http://122.155.180.8:9021/live/426?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=426
+公视3,vjms://122.155.180.8:8500:3502/live/cid=436|vjms://122.155.180.8:8500/live/cid=436|vjms://58.215.41.17:8500:3502/live/cid=436|http://122.155.180.8:9021/live/436?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=436
+三立台湾,vjms://122.155.180.8:8500:3502/live/cid=437|vjms://122.155.180.8:8500/live/cid=437|vjms://58.215.41.17:8500:3502/live/cid=437|http://122.155.180.8:9021/live/437?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=437
+tvbs欢乐,vjms://122.155.180.8:8500:3502/live/cid=438|vjms://58.215.41.17:8500:3502/live/cid=438|http://122.155.180.8:9021/live/438?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=438
+GTV八大第1,vjms://122.155.180.8:8500:3502/live/cid=441|vjms://58.215.41.17:8500:3502/live/cid=441|http://122.155.180.8:9021/live/441?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=441
+纬来戏剧,vjms://122.155.180.8:8500:3502/live/cid=445|vjms://122.155.180.8:8500/live/cid=445|vjms://58.215.41.17:8500:3502/live/cid=445|http://122.155.180.8:9021/live/445?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=445
+纬来电影,vjms://122.155.180.8:8500:3502/live/cid=446|vjms://122.155.180.8:8500/live/cid=446|vjms://58.215.41.17:8500:3502/live/cid=446|http://122.155.180.8:9021/live/446?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=446
+民视,vjms://122.155.180.8:8500:3502/live/cid=450|vjms://122.155.180.8:8500/live/cid=450|vjms://58.215.41.17:8500:3502/live/cid=450|http://122.155.180.8:9021/live/450?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=450
+華視HD,vjms://122.155.180.8:8500:3502/live/cid=451|vjms://58.215.41.17:8500:3502/live/cid=451|http://122.155.180.8:9021/live/451?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=451
+中視HD,vjms://122.155.180.8:8500:3502/live/cid=452|vjms://58.215.41.17:8500:3502/live/cid=452|http://122.155.180.8:9021/live/452?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=452
+臺視HD,vjms://122.155.180.8:8500:3502/live/cid=453|vjms://58.215.41.17:8500:3502/live/cid=453|http://122.155.180.8:9021/live/453?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=453
+AXN电影,vjms://122.155.180.8:8500/live/cid=102|vjms://58.215.41.17:8500:3502/live/cid=102|http://122.155.180.8:9021/live/102?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=102
+BBC新闻,vjms://122.155.180.8:8500/live/cid=418|vjms://58.215.41.17:8500:3502/live/cid=418|http://122.155.180.8:9021/live/418?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=418
+CNN新闻,vjms://122.155.180.8:8500/live/cid=428|vjms://58.215.41.17:8500:3502/live/cid=428|http://122.155.180.8:9021/live/428?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=428
+CN卡通,vjms://122.155.180.8:8500/live/cid=422|vjms://58.215.41.17:8500:3502/live/cid=422|http://122.155.180.8:9021/live/422?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=422
+NBA篮球,vjms://198.255.90.44:8500:3502/live/cid=227|vjms://122.155.180.8:8500:5021/live/cid=227
+MLB棒球,vjms://198.255.90.44:8500:3502/live/cid=228|vjms://122.155.180.8:8500:5021/live/cid=228
+FOX2体育,vjms://198.255.90.44:8500:3502/live/cid=444|vjms://122.155.180.8:8500:5021/live/cid=444
+FOX3体育,vjms://122.155.180.8:8500/live/cid=95|vjms://58.215.41.17:8500:3502/live/cid=95|http://122.155.180.8:9021/live/95?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=95
+FOX新闻,vjms://122.155.180.8:8500/live/cid=97|vjms://58.215.41.17:8500:3502/live/cid=97|http://122.155.180.8:9021/live/97?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=97
+HBO HD,vjms://122.155.180.8:8500/live/cid=261vjms://58.215.41.17:8500:3502/live/cid=261|http://122.155.180.8:9021/live/261?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=261
+HBO,vjms://122.155.180.8:8500/live/cid=236|vjms://58.215.41.17:8500:3502/live/cid=236|http://122.155.180.8:9021/live/236?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=236
+HBO强档,vjms://122.155.180.8:8500/live/cid=238|vjms://58.215.41.17:8500:3502/live/cid=238|http://122.155.180.8:9021/live/238?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=238
+HBO温馨,vjms://122.155.180.8:8500/live/cid=181|vjms://58.215.41.17:8500:3502/live/cid=181|http://122.155.180.8:9021/live/181?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=181
+J2,vjms://122.155.180.8:8500/live/cid=368|vjms://58.215.41.17:8500:3502/live/cid=368|http://122.155.180.8:9021/live/368?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=368
+J5,vjms://122.155.180.8:8500/live/cid=363|vjms://58.215.41.17:8500:3502/live/cid=363|http://122.155.180.8:9021/live/363?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=363
+NHK総合CS-NHK-G CS,vjms://122.155.180.8:8500/live/cid=139|vjms://58.215.41.17:8500:3502/live/cid=139|http://122.155.180.8:9021/live/139?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=139
+TLC旅游生活,http://122.155.180.8:5021/live/103|vjms://58.215.41.17:8500:3502/live/cid=103|http://122.155.180.8:9021/live/103?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=103
+TVBS欢乐,vjms://122.155.180.8:8500/live/cid=438|vjms://58.215.41.17:8500:3502/live/cid=438|http://122.155.180.8:9021/live/438?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=438
+TVB互动,vjms://122.155.180.8:8500/live/cid=366|vjms://58.215.41.17:8500:3502/live/cid=366|http://122.155.180.8:9021/live/366|vjms://198.255.90.44:8500:3502/live/cid=366
+TVB明珠,vjms://122.155.180.8:8500/live/cid=367|vjms://58.215.41.17:8500:3502/live/cid=367|http://122.155.180.8:9021/live/367?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=367
+三立都会,vjms://122.155.180.8:8500/live/cid=226|vjms://58.215.41.17:8500:3502/live/cid=226|http://122.155.180.8:9021/live/226?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=226
+东森财经,vjms://122.155.180.8:8500/live/cid=456|vjms://58.215.41.17:8500:3502/live/cid=456|http://122.155.180.8:9021/live/456?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=456
+中视,vjms://122.155.180.8:8500/live/cid=452|vjms://58.215.41.17:8500:3502/live/cid=452|http://122.155.180.8:9021/live/452?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=452
+八大第1,vjms://122.155.180.8:8500/live/cid=441|vjms://58.215.41.17:8500:3502/live/cid=441|http://122.155.180.8:9021/live/441?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=441
+华视新闻,vjms://122.155.180.8:8500/live/cid=451|vjms://58.215.41.17:8500:3502/live/cid=451|http://122.155.180.8:9021/live/451?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=451
+台视,vjms://122.155.180.8:8500/live/cid=453|vjms://58.215.41.17:8500:3502/live/cid=453|http://122.155.180.8:9021/live/453?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=453
+国兴卫视,vjms://122.155.180.8:8500/live/cid=424|vjms://58.215.41.17:8500:3502/live/cid=424|http://122.155.180.8:9021/live/424?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=424
+国家地理HD,vjms://122.155.180.8:8500/live/cid=115|vjms://58.215.41.17:8500:3502/live/cid=115|http://122.155.180.8:9021/live/115?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=115
+国家地理野生,vjms://122.155.180.8:8500/live/cid=263|vjms://58.215.41.17:8500:3502/live/cid=263|http://122.155.180.8:9021/live/263?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=263
+壹新闻,vjms://122.155.180.8:8500/live/cid=137|vjms://58.215.41.17:8500:3502/live/cid=137|http://122.155.180.8:9021/live/137?pid=0800270E38B3@5130FVO&begblock=0|http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8|http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8|http://tw-3.3gtech.cn/live/ch15/playlist.m3u8|vjms://198.255.90.44:8500:3502/live/cid=137
+大爱,vjms://122.155.180.8:8500/live/cid=442|vjms://58.215.41.17:8500:3502/live/cid=442|http://122.155.180.8:9021/live/442?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=442
+好消息,vjms://122.155.180.8:8500/live/cid=447|vjms://58.215.41.17:8500:3502/live/cid=447|http://122.155.180.8:9021/live/447?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=447
+探索世界,http://122.155.180.8:5021/live/440|vjms://58.215.41.17:8500:3502/live/cid=440|http://122.155.180.8:9021/live/440?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=440
+探索科学,vjms://122.155.180.8:8500/live/cid=457|vjms://58.215.41.17:8500:3502/live/cid=457|http://122.155.180.8:9021/live/457?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=457
+探索频道,vjms://122.155.180.8:8500/live/cid=397|vjms://58.215.41.17:8500:3502/live/cid=397|http://122.155.180.8:9021/live/397?pid=0800270E38B3@5130FVO&begblock=0|vjms://198.255.90.44:8500:3502/live/cid=397
+
+
+
+
+
+
+
+
+
+
 
 
 
