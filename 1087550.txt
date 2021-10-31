@@ -1,5 +1,83 @@
 X直播电视台 youtube油管 频道
 
+台湾☒台湾,#genre#
+民视,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/232.m3u8
+华视,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/233.m3u8
+中视,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/234.m3u8
+台视,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/235.m3u8
+民视台湾台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/236.m3u8
+民视第一台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/237.m3u8
+中视经典台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/238.m3u8
+中视菁采台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/239.m3u8
+亚洲旅游台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/240.m3u8
+猪哥亮歌厅秀,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/241.m3u8
+金光布袋戏,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/242.m3u8
+TVBS,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/243.m3u8
+Baby First,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/244.m3u8
+八大综艺台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/245.m3u8
+中天亚洲台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/247.m3u8
+龙华戏剧台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/248.m3u8
+民视戏剧台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/249.m3u8
+民视综艺台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/250.m3u8
+民视旅游台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/251.m3u8
+公视戏剧台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/252.m3u8
+TVBS精采台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/253.m3u8
+民视影剧台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/254.m3u8
+东森购物1台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/255.m3u8
+采昌影剧台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/256.m3u8
+东森购物2台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/257.m3u8
+视纳华仁纪实频道,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/258.m3u8
+amc最爱电影,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/259.m3u8
+影迷数位电影台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/260.m3u8
+CATCHPLAY电影台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/261.m3u8
+龙华电影台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/262.m3u8
+靖天电影台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/263.m3u8
+靖天映画,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/264.m3u8
+博斯高球台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/265.m3u8
+博斯高球二台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/266.m3u8
+博斯运动一台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/267.m3u8
+博斯无限台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/268.m3u8
+博斯网球台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/269.m3u8
+博斯运动二台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/270.m3u8
+博斯魅力台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/271.m3u8
+博斯无限二台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/272.m3u8
+智林体育台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/273.m3u8
+Fashion one,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/274.m3u8
+Travel Channel,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/275.m3u8
+TRACE Sport Stars,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/276.m3u8
+时尚运动X,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/277.m3u8
+GINX Esports TV,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/278.m3u8
+靖天卡通台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/279.m3u8
+靖天戏剧台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/280.m3u8
+靖天日本台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/281.m3u8
+靖天综合台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/282.m3u8
+靖天欢乐台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/283.m3u8
+靖天资讯台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/284.m3u8
+靖天育乐台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/285.m3u8
+靖洋卡通Nice Bingo,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/286.m3u8
+i-Fun动漫台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/287.m3u8
+龙华卡通台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/288.m3u8
+龙华偶像台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/289.m3u8
+龙华日韩台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/290.m3u8
+龙华经典台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/291.m3u8
+靖洋戏剧台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/292.m3u8
+韩国娱乐台 KMTV,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/293.m3u8
+KLT-靖天国际台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/294.m3u8
+八大精彩台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/295.m3u8
+爱尔达娱乐台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/296.m3u8
+ELTV英语学习台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/297.m3u8
+VTV4,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/298.m3u8
+好消息,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/299.m3u8
+好消息2台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/300.m3u8
+Medici Arts,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/301.m3u8
+TRACE Urban,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/302.m3u8
+Mezzo Live HD,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/303.m3u8
+CLASSICA 古典乐,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/304.m3u8
+蜡笔小新剧场版,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/306.m3u8
+东森儿童台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/307.m3u8
+客家电视台,http://api.hstv.me:8080/live/lyt655165/EN2LrxLRps/308.m3u8
+
+
 央视☒高清,#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225643/index.m3u8
