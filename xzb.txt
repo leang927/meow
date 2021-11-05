@@ -2412,55 +2412,8 @@ NEWTV精品體育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.
 NEWTV超级體育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 足球頻道,http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-HWF散打,http://pull-g.kktv8.com/livekktv/57588147.flv
-beIN SPORTS 1 4K QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/24697
-beIN SPORTS 1 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22157
-beIN SPORTS 1 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14980
-beIN SPORTS 2 4K QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/24696
-beIN SPORTS 2 SD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14983
-beIN SPORTS 3 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22159
-beIN SPORTS 4 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22160
-beIN SPORTS 4 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14986
-beIN SPORTS 5 SD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14989
-beIN SPORTS 6 4K QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/24692
-beIN SPORTS 6 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14990
-beIN SPORTS 6 SD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14991
-beIN SPORTS 7 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/22163
-beIN SPORTS 7 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14992
-beIN SPORTS 7 SD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/14993
-beIN SPORTS 1 English HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15000
-beIN SPORTS 2 English HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15001
-beIN SPORTS 1 FR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/5522
-beIN SPORTS MAX 5 FR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18219
-beIN SPORTS MAX 8 FHD FR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18222
-beIN SPORTS MAX 10 FHD FR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/18224
-beIN SPORTS 1 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15719
-beIN SPORTS 2 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15943
-beIN SPORTS 3 FHD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/17741
-beIN SPORTS 4 FHD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19038
-beIN SPORTS MAX 1 HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15723
-beIN SERIES Drama HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19660
-beIN SERIES Sci-Fi HD TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19661
-beIN MOVIES Turk TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/16292
-beIN MOVIES Family TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/12760
-beIN MOVIES Premier TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/12769
-beIN MOVIES Stars TR,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/12768
-beIN SPORTS 4 HD US,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/9013
-beIN SPORTS HD US,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/15002
-beIN MOVIES 2 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/12854
-beIN MOVIES 4 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/12852
-beIN Animal Planet QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19157
-beIN DMAX MENA QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19154
-beIN SERIES 1 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/19151
-beIN DTX HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/26631
-beIN SPORTS GLOBAL HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/21926
-beIN SPORTS MAX 3 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/27394
-beIN SPORTS HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/29604
-beIN SPORTS 6 HD US,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/32749
-beIN SPORTS Premium 2 FHD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/75534
-beIN SPORTS Premium 3 HD QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/91338
-beIN SPORTS Premium 3 QA,http://cloudcdn.tk:80/C91WDyNhVn2835/cgv7qa5349/91339
- 
+
+
 📺全球P5P,#genre#
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰中文台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
